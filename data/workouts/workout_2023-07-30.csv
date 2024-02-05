@@ -1,0 +1,44 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-07-24,Chest / Shoulders / Triceps,Bench press,Chest,1,9,60.0
+2023-07-24,Chest / Shoulders / Triceps,Bench press,Chest,2,8,60.0
+2023-07-24,Chest / Shoulders / Triceps,Bench press,Chest,3,7,60.0
+2023-07-24,Chest / Shoulders / Triceps,Incline bench press,Chest,1,9,50.0
+2023-07-24,Chest / Shoulders / Triceps,Incline bench press,Chest,2,9,50.0
+2023-07-24,Chest / Shoulders / Triceps,Incline bench press,Chest,3,8,50.0
+2023-07-24,Chest / Shoulders / Triceps,Close-grip bench press,Triceps,1,10,44.0
+2023-07-24,Chest / Shoulders / Triceps,Close-grip bench press,Triceps,2,11,44.0
+2023-07-24,Chest / Shoulders / Triceps,Close-grip bench press,Triceps,3,9,44.0
+2023-07-24,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,1,11,18.0
+2023-07-24,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,2,9,18.0
+2023-07-24,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,1,6,24.0
+2023-07-24,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,2,9,22.0
+2023-07-24,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,3,9,22.0
+2023-07-24,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,11,12.0
+2023-07-24,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,9,12.0
+2023-07-24,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,7,12.0
+2023-07-27,Legs,Romanian Deadlift With Dumbbells,Legs,1,12,22.0
+2023-07-27,Legs,Romanian Deadlift With Dumbbells,Legs,2,14,22.0
+2023-07-27,Legs,Romanian Deadlift With Dumbbells,Legs,3,12,22.0
+2023-07-27,Legs,Romanian Deadlift With Dumbbells,Legs,4,12,22.0
+2023-07-27,Legs,Dumbbell Bulgarian split squat,Legs,1,6,18.0
+2023-07-27,Legs,Dumbbell Bulgarian split squat,Legs,2,10,14.0
+2023-07-27,Legs,Dumbbell Bulgarian split squat,Legs,3,8,14.0
+2023-07-27,Legs,Dumbbell Bulgarian split squat,Legs,4,7,14.0
+2023-07-27,Legs,Smith machine standing calf raise,Legs,1,12,44.0
+2023-07-27,Legs,Smith machine standing calf raise,Legs,2,18,44.0
+2023-07-27,Legs,Smith machine standing calf raise,Legs,3,18,44.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,1,10,22.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,2,9,22.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,3,10,22.0
+2023-07-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,1,12,18.0
+2023-07-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,2,12,18.0
+2023-07-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,3,10,18.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,1,9,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,2,8,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,3,7,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,1,9,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,2,8,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,3,7,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,10,12.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,9,12.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,7,12.0
