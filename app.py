@@ -22,5 +22,11 @@ def my_exercises():
     return render_template('my-exercises.html', my_exercises=my_exercises)
 
 
+@app.route('/analytics')
+def analytics():
+    my_exercises = load_filtered_exercise_data(file_path='./data/current/workout_exercises.csv')
+    return render_template('my-exercises.html', my_exercises=my_exercises)
+
+
 if __name__ == '__main__':
     app.run(debug=True)
