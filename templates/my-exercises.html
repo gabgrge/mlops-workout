@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Exercises | Workout App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/workouts">Workouts</a>
+            <a href="/my-exercises">My Exercises</a>
+            <a href="/analytics">Analytics</a>
+        </nav>
+    </header>
+    <main>
+        <h1>My Exercises</h1>
+        <table id="exercise-table" class="filter-table">
+            <thead>
+                <tr>
+                    <th>
+                        Exercise
+                        <input type="text" class="filter" data-column="0" placeholder="Search Exercise">
+                    </th>
+                    <th>
+                        Description
+                        <input type="text" class="filter" data-column="1" placeholder="Search Description">
+                    </th>
+                    <th>
+                        Type
+                        <input type="text" class="filter" data-column="2" placeholder="Search Type">
+                    </th>
+                    <th>
+                        Muscle
+                        <input type="text" class="filter" data-column="3" placeholder="Search Muscle">
+                    </th>
+                    <th>
+                        Equipment
+                        <input type="text" class="filter" data-column="4" placeholder="Search Equipment">
+                    </th>
+                    <th>
+                        Level
+                        <input type="text" class="filter" data-column="5" placeholder="Search Level">
+                    </th>
+                    <th>
+                        Rating
+                        <input type="text" class="filter" data-column="6" placeholder="Search Rating">
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for exercise in my_exercises %}
+                <tr>
+                    <td>{{ exercise.Title }}</td>
+                    <td>{{ exercise.Desc }}</td>
+                    <td>{{ exercise.Type }}</td>
+                    <td>{{ exercise.BodyPart }}</td>
+                    <td>{{ exercise.Equipment }}</td>
+                    <td>{{ exercise.Level }}</td>
+                    <td>{{ exercise.Rating }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </main>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

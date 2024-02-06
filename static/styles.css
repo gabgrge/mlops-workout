@@ -1,0 +1,73 @@
+:root {
+    /* Define CSS variables */
+    --primary-color: #6D5BBA;
+    --secondary-color: #8D58BF;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --transition-speed: 0.3s;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Navigation Styles */
+nav {
+    background: linear-gradient(45deg, #6D5BBA, #8D58BF);
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 10px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+nav a:hover {
+    color: #e1d1f5;
+}
+
+/* Title Styles */
+h1 {
+    text-align: center;
+    margin: 40px auto;
+}
+
+/* Table Styles */
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    transition: all var(--transition-speed) ease;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.filter {
+    margin: 5px 0;
+    padding: 5px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}

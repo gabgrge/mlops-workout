@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workout App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='index.css') }}">
+</head>
+<body>
+    <main class="main-content">
+        <section class="hero">
+            <h1 class="hero-title">Welcome to the Workout App</h1>
+            <p class="hero-description">Your personal guide to fitness and health</p>
+        </section>
+        <section class="features">
+            <a href="/workouts" class="card">
+                <h2 class="card-title">Workouts</h2>
+                <p class="card-description">Track your progress over time</p>
+            </a>
+            <a href="/my-exercises" class="card">
+                <h2 class="card-title">My Exercises</h2>
+                <p class="card-description">Track your favorite exercises</p>
+            </a>
+            <a href="/analytics" class="card">
+                <h2 class="card-title">Analytics</h2>
+                <p class="card-description">Analyze your performance</p>
+            </a>
+        </section>
+    </main>
+</body>
+</html>

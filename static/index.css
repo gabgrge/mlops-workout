@@ -1,0 +1,75 @@
+:root {
+    /* Define CSS variables */
+    --primary-gradient: linear-gradient(45deg, #6D5BBA, #8D58BF);
+    --primary-color: #333;
+    --background-color: #fff;
+    --transition-speed: 0.3s;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+.main-content {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    height: 100%; /* Take up full height of parent */
+    width: 100%; /* Take up full width of parent */
+}
+
+.hero {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    background: var(--primary-gradient);
+    color: #fff;
+}
+
+.features {
+    flex: 3;
+    display: flex;
+    flex-direction: column; /* Arrange cards in a column */
+    justify-content: space-around; /* Add space around cards */
+    padding: 20px;
+}
+
+.card {
+    flex: 1;
+    background-color: var(--background-color);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--primary-color);
+    padding: 20px;
+    height: calc(100% / 3); /* Each card takes up a third of the parent's height */
+    width: 100%; /* Take up full width of parent */
+    box-sizing: border-box; /* Include padding and border in width and height */
+    margin: 10px 0; /* Add vertical margin */
+    transition: transform var(--transition-speed) ease;
+    -webkit-background-clip: text;
+}
+
+.card:hover {
+    transform: scale(1.02);
+    background: var(--primary-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+    .main-content {
+        flex-direction: column;
+    }
+}
