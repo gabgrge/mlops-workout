@@ -15,7 +15,30 @@
     <main>
         <h1>Workout Data</h1>
         <table id="workout-table">
-            <!-- Table data will be inserted here -->
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Workout</th>
+                    <th>Exercise</th>
+                    <th>Muscle</th>
+                    <th>Set</th>
+                    <th>Reps</th>
+                    <th>Weight</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for workout in workouts %}
+                <tr>
+                    <td>{{ workout.DATE }}</td>
+                    <td>{{ workout.WORKOUT }}</td>
+                    <td>{{ workout.EXERCISE }}</td>
+                    <td>{{ workout.MUSCLE }}</td>
+                    <td>{{ workout.SET }}</td>
+                    <td>{{ workout.NB_REPS }}</td>
+                    <td>{{ workout.WEIGHT }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
         </table>
     </main>
 </body>
