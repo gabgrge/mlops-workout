@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Workouts | Workout App</title>
+    <title>My Exercises | Workout App</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
@@ -17,50 +17,50 @@
         </nav>
     </header>
     <main>
-        <h1>Workout History</h1>
-        <table id="workout-table" class="filter-table">
+        <h1>My Exercises</h1>
+        <table id="exercise-table" class="filter-table">
             <thead>
                 <tr>
                     <th>
-                        Date
-                        <input type="text" class="filter" data-column="0" placeholder="Search Date">
-                    </th>
-                    <th>
-                        Workout
-                        <input type="text" class="filter" data-column="1" placeholder="Search Workout">
-                    </th>
-                    <th>
                         Exercise
-                        <input type="text" class="filter" data-column="2" placeholder="Search Exercise">
+                        <input type="text" class="filter" data-column="0" placeholder="Search Exercise">
+                    </th>
+                    <th>
+                        Description
+                        <input type="text" class="filter" data-column="1" placeholder="Search Description">
+                    </th>
+                    <th>
+                        Type
+                        <input type="text" class="filter" data-column="2" placeholder="Search Type">
                     </th>
                     <th>
                         Muscle
                         <input type="text" class="filter" data-column="3" placeholder="Search Muscle">
                     </th>
                     <th>
-                        Set
-                        <input type="text" class="filter" data-column="4" placeholder="Search Set">
+                        Equipment
+                        <input type="text" class="filter" data-column="4" placeholder="Search Equipment">
                     </th>
                     <th>
-                        Reps
-                        <input type="text" class="filter" data-column="5" placeholder="Search Reps">
+                        Level
+                        <input type="text" class="filter" data-column="5" placeholder="Search Level">
                     </th>
                     <th>
-                        Weight
-                        <input type="text" class="filter" data-column="6" placeholder="Search Weight">
+                        Rating
+                        <input type="text" class="filter" data-column="6" placeholder="Search Rating">
                     </th>
                 </tr>
             </thead>
             <tbody>
-                {% for workout in workouts %}
+                {% for exercise in my_exercises %}
                 <tr>
-                    <td>{{ workout.DATE }}</td>
-                    <td>{{ workout.WORKOUT }}</td>
-                    <td>{{ workout.EXERCISE }}</td>
-                    <td>{{ workout.MUSCLE }}</td>
-                    <td>{{ workout.SET }}</td>
-                    <td>{{ workout.NB_REPS }}</td>
-                    <td>{{ workout.WEIGHT }}</td>
+                    <td>{{ exercise.Title }}</td>
+                    <td>{{ exercise.Desc }}</td>
+                    <td>{{ exercise.Type }}</td>
+                    <td>{{ exercise.BodyPart }}</td>
+                    <td>{{ exercise.Equipment }}</td>
+                    <td>{{ exercise.Level }}</td>
+                    <td>{{ exercise.Rating }}</td>
                 </tr>
                 {% endfor %}
             </tbody>

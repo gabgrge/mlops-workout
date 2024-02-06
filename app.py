@@ -16,5 +16,11 @@ def workouts():
     return render_template('workouts.html', workouts=workouts)
 
 
+@app.route('/my-exercises')
+def my_exercises():
+    my_exercises = load_filtered_exercise_data(file_path='./data/current/workout_exercises.csv')
+    return render_template('my-exercises.html', my_exercises=my_exercises)
+
+
 if __name__ == '__main__':
     app.run(debug=True)
