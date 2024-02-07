@@ -21,7 +21,6 @@ jobs:
     - name: Run tests
       run: |
         python -m unittest discover
-      working-directory: src/app/tests
 
   build-and-push:
     needs: test
