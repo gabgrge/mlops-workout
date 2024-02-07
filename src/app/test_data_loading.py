@@ -2,7 +2,7 @@ import unittest
 import os
 import pandas as pd
 
-from data_loading import load_workout_data, load_filtered_exercise_data
+from src.app.data_loading import load_workout_data, load_filtered_exercise_data
 
 
 class TestDataLoading(unittest.TestCase):
