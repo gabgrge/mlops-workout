@@ -7,7 +7,7 @@ from app.jobs import *
 
 
 def start_flask_app():
-    app.run(port=5000)
+    app.run(host="localhost", port=5000)
 
 
 def start_scheduler():
@@ -20,7 +20,7 @@ def start_scheduler():
     # Main loop to continuously check for scheduled jobs
     while True:
         schedule.run_pending()
-        #time.sleep(60)  # Sleep for 60 seconds before checking again
+        time.sleep(60)  # Sleep for 60 seconds before checking again
 
 
 if __name__ == '__main__':
