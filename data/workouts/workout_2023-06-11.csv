@@ -1,0 +1,79 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-06-06,Back / Shoulders / Biceps,Pull-up,Back,1,9,0.0
+2023-06-06,Back / Shoulders / Biceps,Pull-up,Back,2,8,0.0
+2023-06-06,Back / Shoulders / Biceps,Pull-up,Back,3,6,0.0
+2023-06-06,Back / Shoulders / Biceps,Pull-up,Back,4,7,0.0
+2023-06-06,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,1,10,60.0
+2023-06-06,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,2,10,60.0
+2023-06-06,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,3,8,60.0
+2023-06-06,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,4,11,50.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell row,Shoulders,1,8,14.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell row,Shoulders,2,11,12.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell row,Shoulders,3,12,12.0
+2023-06-06,Back / Shoulders / Biceps,Hammer Curls,Biceps,1,11,12.0
+2023-06-06,Back / Shoulders / Biceps,Hammer Curls,Biceps,2,8,12.0
+2023-06-06,Back / Shoulders / Biceps,Hammer Curls,Biceps,3,7,12.0
+2023-06-06,Back / Shoulders / Biceps,Hammer Curls,Biceps,4,7,12.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,1,10,8.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,2,6,8.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,3,5,8.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,4,5,8.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,1,9,26.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,2,7,26.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,3,7,26.0
+2023-06-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Chest,1,10,22.0
+2023-06-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Chest,2,8,22.0
+2023-06-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Chest,3,7,22.0
+2023-06-09,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,1,11,18.0
+2023-06-09,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,2,8,18.0
+2023-06-09,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,3,6,18.0
+2023-06-09,Chest / Shoulders / Triceps,Low-cable cross-over,Chest,1,9,11.0
+2023-06-09,Chest / Shoulders / Triceps,Low-cable cross-over,Chest,2,11,11.0
+2023-06-09,Chest / Shoulders / Triceps,Low-cable cross-over,Chest,3,10,11.0
+2023-06-09,Chest / Shoulders / Triceps,Cable overhead triceps extension,Triceps,1,14,23.0
+2023-06-09,Chest / Shoulders / Triceps,Cable overhead triceps extension,Triceps,2,6,27.0
+2023-06-09,Chest / Shoulders / Triceps,Cable overhead triceps extension,Triceps,3,8,25.0
+2023-06-09,Chest / Shoulders / Triceps,Triceps Pushdown,Triceps,1,6,18.0
+2023-06-09,Chest / Shoulders / Triceps,Triceps Pushdown,Triceps,2,7,16.0
+2023-06-09,Chest / Shoulders / Triceps,Triceps Pushdown,Triceps,3,7,16.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,11,12.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,8,12.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,8,12.0
+2023-06-10,Back / Shoulders / Biceps,Pull-up,Back,1,10,0.0
+2023-06-10,Back / Shoulders / Biceps,Pull-up,Back,2,8,0.0
+2023-06-10,Back / Shoulders / Biceps,Pull-up,Back,3,7,0.0
+2023-06-10,Back / Shoulders / Biceps,Pull-up,Back,4,6,0.0
+2023-06-10,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,1,9,60.0
+2023-06-10,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,2,10,60.0
+2023-06-10,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,3,9,60.0
+2023-06-10,Back / Shoulders / Biceps,Bent Over Barbell Row,Back,4,13,50.0
+2023-06-10,Back / Shoulders / Biceps,Bent-over dumbbell rear delt fly,Shoulders,1,10,6.0
+2023-06-10,Back / Shoulders / Biceps,Bent-over dumbbell rear delt fly,Shoulders,2,15,6.0
+2023-06-10,Back / Shoulders / Biceps,Bent-over dumbbell rear delt fly,Shoulders,3,15,6.0
+2023-06-10,Back / Shoulders / Biceps,Hammer Curls,Biceps,1,6,14.0
+2023-06-10,Back / Shoulders / Biceps,Hammer Curls,Biceps,2,10,12.0
+2023-06-10,Back / Shoulders / Biceps,Hammer Curls,Biceps,3,8,12.0
+2023-06-10,Back / Shoulders / Biceps,Hammer Curls,Biceps,4,8,12.0
+2023-06-10,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,1,10,8.0
+2023-06-10,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,2,8,8.0
+2023-06-10,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,3,6,8.0
+2023-06-10,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,4,6,8.0
+2023-06-11,Legs,Barbell Squat,Legs,1,9,80.0
+2023-06-11,Legs,Barbell Squat,Legs,2,9,80.0
+2023-06-11,Legs,Barbell Squat,Legs,3,9,80.0
+2023-06-11,Legs,Barbell Squat,Legs,4,10,60.0
+2023-06-11,Legs,Leg Press,Legs,1,13,70.0
+2023-06-11,Legs,Leg Press,Legs,2,7,100.0
+2023-06-11,Legs,Leg Press,Legs,3,11,100.0
+2023-06-11,Legs,Lying Leg Curls,Legs,1,9,41.0
+2023-06-11,Legs,Lying Leg Curls,Legs,2,11,41.0
+2023-06-11,Legs,Lying Leg Curls,Legs,3,7,45.0
+2023-06-11,Legs,Lying Leg Curls,Legs,4,6,45.0
+2023-06-11,Legs,Thigh adductor,Legs,1,10,59.0
+2023-06-11,Legs,Thigh adductor,Legs,2,4,66.0
+2023-06-11,Legs,Smith machine standing calf raise,Legs,1,13,70.0
+2023-06-11,Legs,Smith machine standing calf raise,Legs,2,12,75.0
+2023-06-11,Legs,Smith machine standing calf raise,Legs,3,9,75.0
+2023-06-11,Legs,Leg Extensions,Legs,1,13,52.0
+2023-06-11,Legs,Leg Extensions,Legs,2,9,59.0
+2023-06-11,Legs,Leg Extensions,Legs,3,8,59.0

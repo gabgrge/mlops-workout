@@ -1,0 +1,36 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-06-16,Chest / Shoulders / Triceps,Bench press,Chest,1,9,54.0
+2023-06-16,Chest / Shoulders / Triceps,Bench press,Chest,2,8,58.0
+2023-06-16,Chest / Shoulders / Triceps,Bench press,Chest,3,7,58.0
+2023-06-16,Chest / Shoulders / Triceps,Incline bench press,Chest,1,6,46.0
+2023-06-16,Chest / Shoulders / Triceps,Incline bench press,Chest,2,8,46.0
+2023-06-16,Chest / Shoulders / Triceps,Incline bench press,Chest,3,7,46.0
+2023-06-16,Chest / Shoulders / Triceps,Decline barbell bench press,Chest,1,9,48.0
+2023-06-16,Chest / Shoulders / Triceps,Decline barbell bench press,Chest,2,8,48.0
+2023-06-16,Chest / Shoulders / Triceps,Decline barbell bench press,Chest,3,7,48.0
+2023-06-16,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,1,7,18.0
+2023-06-16,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,2,5,18.0
+2023-06-16,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,3,5,18.0
+2023-06-16,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,1,15,12.0
+2023-06-16,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,2,14,14.0
+2023-06-16,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,3,9,16.0
+2023-06-16,Chest / Shoulders / Triceps,Tricep Dumbbell Kickback,Triceps,1,12,6.0
+2023-06-16,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,13,10.0
+2023-06-16,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,7,12.0
+2023-06-16,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,6,12.0
+2023-06-17,Legs,Barbell Squat,Legs,1,6,85.0
+2023-06-17,Legs,Barbell Squat,Legs,2,10,85.0
+2023-06-17,Legs,Barbell Squat,Legs,3,9,85.0
+2023-06-17,Legs,Barbell Squat,Legs,4,10,65.0
+2023-06-17,Legs,Romanian Deadlift With Dumbbells,Legs,1,11,26.0
+2023-06-17,Legs,Romanian Deadlift With Dumbbells,Legs,2,9,26.0
+2023-06-17,Legs,Romanian Deadlift With Dumbbells,Legs,3,9,26.0
+2023-06-17,Legs,Lying Leg Curls,Legs,1,11,36.0
+2023-06-17,Legs,Lying Leg Curls,Legs,2,9,36.0
+2023-06-17,Legs,Lying Leg Curls,Legs,3,7,36.0
+2023-06-17,Legs,Leg Extensions,Legs,1,14,59.0
+2023-06-17,Legs,Leg Extensions,Legs,2,10,66.0
+2023-06-17,Legs,Leg Extensions,Legs,3,8,66.0
+2023-06-17,Legs,Smith machine standing calf raise,Legs,1,9,80.0
+2023-06-17,Legs,Smith machine standing calf raise,Legs,2,8,80.0
+2023-06-17,Legs,Smith machine standing calf raise,Legs,3,10,80.0

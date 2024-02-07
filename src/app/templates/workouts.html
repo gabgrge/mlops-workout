@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workouts | Workout App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/workouts">Workouts</a>
+            <a href="/my-exercises">My Exercises</a>
+            <a href="/analytics">Analytics</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Workout History</h1>
+        <table id="workout-table" class="filter-table">
+            <thead>
+                <tr>
+                    <th>
+                        Date
+                        <input type="text" class="filter" data-column="0" placeholder="Search Date">
+                    </th>
+                    <th>
+                        Workout
+                        <input type="text" class="filter" data-column="1" placeholder="Search Workout">
+                    </th>
+                    <th>
+                        Exercise
+                        <input type="text" class="filter" data-column="2" placeholder="Search Exercise">
+                    </th>
+                    <th>
+                        Muscle
+                        <input type="text" class="filter" data-column="3" placeholder="Search Muscle">
+                    </th>
+                    <th>
+                        Set
+                        <input type="text" class="filter" data-column="4" placeholder="Search Set">
+                    </th>
+                    <th>
+                        Reps
+                        <input type="text" class="filter" data-column="5" placeholder="Search Reps">
+                    </th>
+                    <th>
+                        Weight
+                        <input type="text" class="filter" data-column="6" placeholder="Search Weight">
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for workout in workouts %}
+                <tr>
+                    <td>{{ workout.DATE }}</td>
+                    <td>{{ workout.WORKOUT }}</td>
+                    <td>{{ workout.EXERCISE }}</td>
+                    <td>{{ workout.MUSCLE }}</td>
+                    <td>{{ workout.SET }}</td>
+                    <td>{{ workout.NB_REPS }}</td>
+                    <td>{{ workout.WEIGHT }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </main>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

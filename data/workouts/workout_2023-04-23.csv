@@ -1,0 +1,25 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-04-17,Legs,Leg Press,Legs,1,10,80.0
+2023-04-17,Legs,Leg Press,Legs,2,10,90.0
+2023-04-17,Legs,Leg Press,Legs,3,10,100.0
+2023-04-17,Legs,Leg Press,Legs,4,8,110.0
+2023-04-17,Legs,Barbell Squat,Legs,1,10,45.0
+2023-04-17,Legs,Barbell Squat,Legs,2,8,50.0
+2023-04-17,Legs,Barbell Squat,Legs,3,6,55.0
+2023-04-17,Legs,Barbell Squat,Legs,4,4,60.0
+2023-04-20,Arms,Triceps dip,Triceps,1,10,0.0
+2023-04-20,Arms,Triceps dip,Triceps,2,10,0.0
+2023-04-20,Arms,Triceps dip,Triceps,3,7,0.0
+2023-04-20,Arms,Triceps dip,Triceps,4,8,0.0
+2023-04-20,Arms,Behind-the-head skullcrusher,Triceps,1,10,15.0
+2023-04-20,Arms,Behind-the-head skullcrusher,Triceps,2,7,17.0
+2023-04-20,Arms,Behind-the-head skullcrusher,Triceps,3,6,17.0
+2023-04-20,Arms,Behind-the-head skullcrusher,Triceps,4,10,15.0
+2023-04-20,Arms,Preacher Curl,Biceps,1,10,20.0
+2023-04-20,Arms,Preacher Curl,Biceps,2,10,25.0
+2023-04-20,Arms,Preacher Curl,Biceps,3,10,27.0
+2023-04-20,Arms,Preacher Curl,Biceps,4,5,30.0
+2023-04-20,Arms,Hammer Curls,Biceps,1,10,8.0
+2023-04-20,Arms,Hammer Curls,Biceps,2,9,10.0
+2023-04-20,Arms,Hammer Curls,Biceps,3,10,10.0
+2023-04-20,Arms,Hammer Curls,Biceps,4,7,10.0

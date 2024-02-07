@@ -1,0 +1,53 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-12-08,Back / Shoulders / Biceps,Seated Cable Rows,Back,1,6,79.0
+2023-12-08,Back / Shoulders / Biceps,Seated Cable Rows,Back,2,9,73.0
+2023-12-08,Back / Shoulders / Biceps,Seated Cable Rows,Back,3,8,73.0
+2023-12-08,Back / Shoulders / Biceps,Lat pull-down,Back,1,10,66.0
+2023-12-08,Back / Shoulders / Biceps,Lat pull-down,Back,2,10,66.0
+2023-12-08,Back / Shoulders / Biceps,Lat pull-down,Back,3,9,66.0
+2023-12-08,Back / Shoulders / Biceps,Straight-arm cable pull-over,Back,1,16,36.0
+2023-12-08,Back / Shoulders / Biceps,Straight-arm cable pull-over,Back,2,12,41.0
+2023-12-08,Back / Shoulders / Biceps,Straight-arm cable pull-over,Back,3,8,41.0
+2023-12-08,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Shoulders,1,11,14.0
+2023-12-08,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Shoulders,2,10,14.0
+2023-12-08,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Shoulders,3,10,14.0
+2023-12-08,Back / Shoulders / Biceps,Cable rope hammer curl,Biceps,1,12,41.0
+2023-12-08,Back / Shoulders / Biceps,Cable rope hammer curl,Biceps,2,8,41.0
+2023-12-08,Back / Shoulders / Biceps,Cable rope hammer curl,Biceps,3,8,41.0
+2023-12-08,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,1,11,8.0
+2023-12-08,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,2,10,8.0
+2023-12-08,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Biceps,3,8,8.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,1,10,30.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,2,7,30.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,3,7,30.0
+2023-12-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Chest,1,7,26.0
+2023-12-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Chest,2,7,26.0
+2023-12-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Chest,3,6,26.0
+2023-12-09,Chest / Shoulders / Triceps,Low-cable cross-over,Chest,1,8,16.0
+2023-12-09,Chest / Shoulders / Triceps,Low-cable cross-over,Chest,2,8,16.0
+2023-12-09,Chest / Shoulders / Triceps,Cable cross-over,Chest,1,10,18.0
+2023-12-09,Chest / Shoulders / Triceps,Cable cross-over,Chest,2,12,18.0
+2023-12-09,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,1,12,25.0
+2023-12-09,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,2,10,25.0
+2023-12-09,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,3,10,25.0
+2023-12-09,Chest / Shoulders / Triceps,Triceps Pushdown,Triceps,1,10,27.0
+2023-12-09,Chest / Shoulders / Triceps,Triceps Pushdown,Triceps,2,10,27.0
+2023-12-09,Chest / Shoulders / Triceps,Triceps Pushdown,Triceps,3,9,27.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,10,14.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,10,14.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,7,14.0
+2023-12-10,Legs,Barbell Squat,Legs,1,10,90.0
+2023-12-10,Legs,Barbell Squat,Legs,2,9,90.0
+2023-12-10,Legs,Barbell Squat,Legs,3,8,90.0
+2023-12-10,Legs,Leg Press,Legs,1,10,120.0
+2023-12-10,Legs,Leg Press,Legs,2,10,120.0
+2023-12-10,Legs,Leg Press,Legs,3,7,130.0
+2023-12-10,Legs,Seated Leg Curl,Legs,1,9,79.0
+2023-12-10,Legs,Seated Leg Curl,Legs,2,10,79.0
+2023-12-10,Legs,Seated Leg Curl,Legs,3,7,79.0
+2023-12-10,Legs,Leg Extensions,Legs,1,11,73.0
+2023-12-10,Legs,Leg Extensions,Legs,2,10,73.0
+2023-12-10,Legs,Leg Extensions,Legs,3,8,73.0
+2023-12-10,Legs,Smith machine standing calf raise,Legs,1,12,110.0
+2023-12-10,Legs,Smith machine standing calf raise,Legs,2,10,110.0
+2023-12-10,Legs,Smith machine standing calf raise,Legs,3,10,110.0

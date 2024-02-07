@@ -1,0 +1,553 @@
+DATE,WORKOUT,EXERCISE,Type,BodyPart,Equipment,Level,Rating,NB_SETS,AVERAGE_REPS,AVERAGE_WEIGHT,MAX_WEIGHT
+2023-03-27,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,8.5,49.411764705882355,60.0
+2023-03-27,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,4,9.5,69.47368421052632,80.0
+2023-03-27,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,4,8.25,22.12121212121212,25.0
+2023-03-28,Back / Shoulders,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,4,7.75,46.903225806451616,59.0
+2023-03-28,Back / Shoulders,Pull-up,Strength,Lats,Body Only,Beginner,8.9,1,5.0,0.0,0.0
+2023-03-28,Back / Shoulders,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,8.5,42.205882352941174,45.0
+2023-03-28,Back / Shoulders,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,4,9.0,33.166666666666664,39.0
+2023-03-28,Back / Shoulders,Incline dumbbell row,Strength,Middle Back,Dumbbell,Intermediate,8.8,3,10.0,8.0,8.0
+2023-04-03,Chest / Shoulders,Bench press,Strength,Chest,Barbell,Intermediate,,4,6.25,46.0,50.0
+2023-04-03,Chest / Shoulders,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,4,6.75,15.25925925925926,16.0
+2023-04-03,Chest / Shoulders,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,4,10.0,12.75,14.0
+2023-04-03,Chest / Shoulders,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,4,7.5,11.333333333333334,12.0
+2023-04-04,Back / Shoulders,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,4.25,0.0,0.0
+2023-04-04,Back / Shoulders,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,10.0,43.75,50.0
+2023-04-04,Back / Shoulders,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,4,9.5,38.421052631578945,45.0
+2023-04-04,Back / Shoulders,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,9.0,7.444444444444445,8.0
+2023-04-06,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,8.0,52.34375,60.0
+2023-04-06,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,4,9.5,84.21052631578948,100.0
+2023-04-06,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,4,9.0,25.833333333333332,30.0
+2023-04-06,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,4,10.0,33.75,40.0
+2023-04-08,Arms / Shoulders,Barbell Curl,Strength,Biceps,Barbell,Intermediate,9.0,8,7.5,21.533333333333335,26.0
+2023-04-08,Arms / Shoulders,Tricep Dumbbell Kickback,Strength,Triceps,Dumbbell,Intermediate,8.8,6,8.0,6.0,6.0
+2023-04-08,Arms / Shoulders,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,4,8.25,14.363636363636363,18.0
+2023-04-08,Arms / Shoulders,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,8.5,7.764705882352941,10.0
+2023-04-08,Arms / Shoulders,Incline dumbbell row,Strength,Middle Back,Dumbbell,Intermediate,8.8,4,9.25,10.0,10.0
+2023-04-10,Chest / Shoulders,Bench press,Strength,Chest,Barbell,Intermediate,,4,8.5,40.0,50.0
+2023-04-10,Chest / Shoulders,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,4,10.5,15.380952380952381,16.0
+2023-04-10,Chest / Shoulders,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,4,8.0,12.3125,14.0
+2023-04-14,Back / Shoulders,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,4.5,0.0,0.0
+2023-04-14,Back / Shoulders,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,8.75,47.371428571428574,54.0
+2023-04-14,Back / Shoulders,Negative pull-up,Strength,Lats,Body Only,Intermediate,0.0,1,7.0,0.0,0.0
+2023-04-14,Back / Shoulders,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,9.0,8.333333333333334,10.0
+2023-04-15,Chest / Shoulders,Bench press,Strength,Chest,Barbell,Intermediate,,4,8.5,39.76470588235294,50.0
+2023-04-15,Chest / Shoulders,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,4,10.0,15.5,16.0
+2023-04-15,Chest / Shoulders,Decline barbell bench press,Strength,Chest,Barbell,Intermediate,8.9,4,7.25,37.93103448275862,44.0
+2023-04-15,Chest / Shoulders,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,4,7.75,12.0,12.0
+2023-04-17,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,4,9.5,94.21052631578948,110.0
+2023-04-17,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,7.0,50.714285714285715,60.0
+2023-04-20,Arms,Triceps dip,Strength,Triceps,Body Only,Intermediate,9.4,4,8.75,0.0,0.0
+2023-04-20,Arms,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,4,8.25,15.787878787878787,17.0
+2023-04-20,Arms,Preacher Curl,Strength,Biceps,Barbell,Intermediate,8.8,4,8.75,24.857142857142858,30.0
+2023-04-20,Arms,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,9.0,9.444444444444445,10.0
+2023-05-07,Chest,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,4,8.75,20.571428571428573,24.0
+2023-05-07,Chest,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,9.0,19.11111111111111,20.0
+2023-05-07,Chest,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,3,10.666666666666666,10.25,11.0
+2023-05-15,Arms,Triceps dip,Strength,Triceps,Body Only,Intermediate,9.4,4,9.75,0.0,0.0
+2023-05-15,Arms,Preacher Curl,Strength,Biceps,Barbell,Intermediate,8.8,4,7.25,26.17241379310345,27.0
+2023-05-19,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,10.333333333333334,59.03225806451613,70.0
+2023-05-19,Legs,Romanian Deadlift With Dumbbells,Strength,Hamstrings,Dumbbell,Beginner,9.4,3,11.666666666666666,21.142857142857142,22.0
+2023-05-19,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,3,10.333333333333334,30.35483870967742,36.0
+2023-05-19,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,13.666666666666666,46.707317073170735,59.0
+2023-05-20,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,7.333333333333333,0.0,0.0
+2023-05-20,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,9.666666666666666,45.0,45.0
+2023-05-20,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,8.333333333333334,34.08,36.0
+2023-05-20,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,7.666666666666667,23.695652173913043,27.0
+2023-05-20,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,10.0,6.0,6.0
+2023-05-20,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,7.0,10.0,10.0
+2023-05-20,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.0,8.0,8.0
+2023-05-21,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,9.0,23.11111111111111,24.0
+2023-05-21,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,9.0,20.0,20.0
+2023-05-21,Chest / Shoulders / Triceps,Leverage Chest Press,Strength,Chest,Machine,Beginner,8.5,3,8.666666666666666,20.0,20.0
+2023-05-21,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,12.666666666666666,7.947368421052632,9.0
+2023-05-21,Chest / Shoulders / Triceps,Cable overhead triceps extension,Strength,Triceps,Cable,Intermediate,8.1,3,7.0,24.714285714285715,27.0
+2023-05-21,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,11.0,29.727272727272727,32.0
+2023-05-21,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,7.25,8.655172413793103,9.0
+2023-05-25,Back / Shoulders,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.0,0.0,0.0
+2023-05-25,Back / Shoulders,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,7.25,60.86206896551724,65.0
+2023-05-25,Back / Shoulders,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,4,8.5,49.94117647058823,52.0
+2023-05-25,Back / Shoulders,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,8.75,9.371428571428572,10.0
+2023-05-27,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,8.0,25.083333333333332,26.0
+2023-05-27,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,2,9.5,20.842105263157894,22.0
+2023-05-27,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,7.333333333333333,17.09090909090909,18.0
+2023-05-27,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,13.333333333333334,10.0,11.0
+2023-05-27,Chest / Shoulders / Triceps,Cable overhead triceps extension,Strength,Triceps,Cable,Intermediate,8.1,3,6.0,27.555555555555557,29.0
+2023-05-27,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,9.666666666666666,33.93103448275862,36.0
+2023-05-27,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,8.75,10.0,10.0
+2023-05-28,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,7.75,72.58064516129032,80.0
+2023-05-28,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,9.333333333333334,72.85714285714286,80.0
+2023-05-28,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,4,9.25,39.24324324324324,41.0
+2023-05-28,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.666666666666666,60.0,60.0
+2023-05-28,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,9.333333333333334,49.25,52.0
+2023-05-29,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,7.333333333333333,2.727272727272727,5.0
+2023-05-29,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,8.666666666666666,52.0,52.0
+2023-05-29,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,8.666666666666666,38.15384615384615,41.0
+2023-05-29,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,12.0,25.11111111111111,29.0
+2023-05-29,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,11.0,10.090909090909092,11.0
+2023-05-29,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,9.333333333333334,10.0,10.0
+2023-05-29,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,6.0,8.791666666666666,9.0
+2023-05-30,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,8.333333333333334,52.24,54.0
+2023-05-30,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,7.333333333333333,43.27272727272727,46.0
+2023-05-30,Chest / Shoulders / Triceps,Decline barbell bench press,Strength,Chest,Barbell,Intermediate,8.9,3,8.333333333333334,46.0,46.0
+2023-05-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,5.666666666666667,17.294117647058822,18.0
+2023-05-30,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,5.666666666666667,16.58823529411765,18.0
+2023-05-30,Chest / Shoulders / Triceps,Tricep Dumbbell Kickback,Strength,Triceps,Dumbbell,Intermediate,8.8,3,4.333333333333333,6.0,6.0
+2023-05-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.666666666666666,10.0,10.0
+2023-06-02,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.0,0.7142857142857143,5.0
+2023-06-02,Back / Shoulders / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,8.75,60.0,60.0
+2023-06-02,Back / Shoulders / Biceps,Incline dumbbell row,Strength,Middle Back,Dumbbell,Intermediate,8.8,4,11.75,12.46808510638298,14.0
+2023-06-02,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,6.25,12.0,12.0
+2023-06-02,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,5.75,8.0,8.0
+2023-06-03,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,8.333333333333334,26.0,26.0
+2023-06-03,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,7.666666666666667,22.0,22.0
+2023-06-03,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,7.666666666666667,18.0,18.0
+2023-06-03,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,10.0,11.9,14.0
+2023-06-03,Chest / Shoulders / Triceps,Cable overhead triceps extension,Strength,Triceps,Cable,Intermediate,8.1,3,8.666666666666666,25.0,25.0
+2023-06-03,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,8.666666666666666,36.0,36.0
+2023-06-03,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,9.0,10.0,10.0
+2023-06-04,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,8.5,74.70588235294117,80.0
+2023-06-04,Legs,Romanian Deadlift With Dumbbells,Strength,Hamstrings,Dumbbell,Beginner,9.4,3,8.0,25.166666666666668,26.0
+2023-06-04,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,8.333333333333334,59.0,59.0
+2023-06-04,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,9.666666666666666,65.51724137931035,70.0
+2023-06-04,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,3,7.0,36.0,36.0
+2023-06-06,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.5,0.0,0.0
+2023-06-06,Back / Shoulders / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,9.75,57.17948717948718,60.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell row,Strength,Middle Back,Dumbbell,Intermediate,8.8,3,10.333333333333334,12.516129032258064,14.0
+2023-06-06,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,8.25,12.0,12.0
+2023-06-06,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,6.5,8.0,8.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,7.666666666666667,26.0,26.0
+2023-06-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,8.333333333333334,22.0,22.0
+2023-06-09,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.333333333333334,18.0,18.0
+2023-06-09,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,10.0,11.0,11.0
+2023-06-09,Chest / Shoulders / Triceps,Cable overhead triceps extension,Strength,Triceps,Cable,Intermediate,8.1,3,9.333333333333334,24.428571428571427,27.0
+2023-06-09,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,6.666666666666667,16.6,18.0
+2023-06-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-06-10,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.75,0.0,0.0
+2023-06-10,Back / Shoulders / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,10.25,56.829268292682926,60.0
+2023-06-10,Back / Shoulders / Biceps,Bent-over dumbbell rear delt fly,Strength,Lats,Dumbbell,Intermediate,,3,13.333333333333334,6.0,6.0
+2023-06-10,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,8.0,12.375,14.0
+2023-06-10,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,7.5,8.0,8.0
+2023-06-11,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,9.25,74.5945945945946,80.0
+2023-06-11,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,10.333333333333334,87.41935483870968,100.0
+2023-06-11,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,4,8.25,42.57575757575758,45.0
+2023-06-11,Legs,Thigh adductor,Strength,Adductors,Machine,Intermediate,9.0,2,7.0,61.0,66.0
+2023-06-11,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,11.333333333333334,73.08823529411765,75.0
+2023-06-11,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,10.0,55.96666666666667,59.0
+2023-06-16,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,8.0,56.5,58.0
+2023-06-16,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,7.0,46.0,46.0
+2023-06-16,Chest / Shoulders / Triceps,Decline barbell bench press,Strength,Chest,Barbell,Intermediate,8.9,3,8.0,48.0,48.0
+2023-06-16,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,5.666666666666667,18.0,18.0
+2023-06-16,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,12.666666666666666,13.68421052631579,16.0
+2023-06-16,Chest / Shoulders / Triceps,Tricep Dumbbell Kickback,Strength,Triceps,Dumbbell,Intermediate,8.8,1,12.0,6.0,6.0
+2023-06-16,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.666666666666666,11.0,12.0
+2023-06-17,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,8.75,79.28571428571429,85.0
+2023-06-17,Legs,Romanian Deadlift With Dumbbells,Strength,Hamstrings,Dumbbell,Beginner,9.4,3,9.666666666666666,26.0,26.0
+2023-06-17,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,3,9.0,36.0,36.0
+2023-06-17,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,10.666666666666666,62.9375,66.0
+2023-06-17,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,9.0,80.0,80.0
+2023-06-21,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,9.0,0.0,0.0
+2023-06-21,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,9.0,52.0,52.0
+2023-06-21,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,9.0,55.888888888888886,59.0
+2023-06-21,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,8.666666666666666,28.46153846153846,32.0
+2023-06-21,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,10.666666666666666,10.3125,11.0
+2023-06-21,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,8.333333333333334,12.0,12.0
+2023-06-21,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,6.0,8.0,8.0
+2023-06-22,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,9.0,15.777777777777779,18.0
+2023-06-22,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,7.333333333333333,26.0,26.0
+2023-06-22,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,7.333333333333333,22.0,22.0
+2023-06-22,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,7.333333333333333,18.0,18.0
+2023-06-22,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,9.666666666666666,11.0,11.0
+2023-06-22,Chest / Shoulders / Triceps,Cable overhead triceps extension,Strength,Triceps,Cable,Intermediate,8.1,3,8.666666666666666,26.153846153846153,27.0
+2023-06-22,Chest / Shoulders / Triceps,Incline cable chest fly,Strength,Chest,Cable,Intermediate,9.0,2,9.0,15.777777777777779,18.0
+2023-06-22,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,7.0,14.761904761904763,18.0
+2023-06-22,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-06-24,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,8.0,82.70833333333333,85.0
+2023-06-24,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,9.333333333333334,106.07142857142857,110.0
+2023-06-24,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,3,8.666666666666666,30.0,30.0
+2023-06-26,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,9.0,0.0,0.0
+2023-06-26,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,9.333333333333334,52.0,52.0
+2023-06-26,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,8.666666666666666,59.0,59.0
+2023-06-26,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,8.666666666666666,28.0,28.0
+2023-06-26,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,11.0,11.0,11.0
+2023-06-26,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,8.0,12.0,12.0
+2023-06-26,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.333333333333333,8.0,8.0
+2023-07-01,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,9.0,2.074074074074074,4.0
+2023-07-01,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,10.0,54.86666666666667,59.0
+2023-07-01,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,10.0,43.53333333333333,45.0
+2023-07-01,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,10.0,29.333333333333332,32.0
+2023-07-01,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,10.0,14.0,14.0
+2023-07-01,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,11.0,32.0,32.0
+2023-07-01,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,8.0,9.0,9.0
+2023-07-02,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,7.666666666666667,60.0,60.0
+2023-07-02,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,9.333333333333334,47.214285714285715,48.0
+2023-07-02,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,8.333333333333334,42.72,48.0
+2023-07-02,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,5.666666666666667,17.41176470588235,18.0
+2023-07-02,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,10.666666666666666,17.125,18.0
+2023-07-02,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,7.333333333333333,12.0,12.0
+2023-07-05,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,8.666666666666666,2.1538461538461537,4.0
+2023-07-05,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,8.333333333333334,59.0,59.0
+2023-07-05,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,10.0,59.0,59.0
+2023-07-05,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,9.333333333333334,28.0,28.0
+2023-07-05,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,10.666666666666666,14.0,14.0
+2023-07-05,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,8.0,36.0,36.0
+2023-07-05,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.333333333333333,8.545454545454545,10.0
+2023-07-07,Chest / Shoulders / Triceps,Smith machine bench press,Strength,Chest,Machine,Intermediate,8.3,3,6.666666666666667,62.75,65.0
+2023-07-07,Chest / Shoulders / Triceps,Smith Machine Incline Bench Press,Strength,Chest,Machine,Intermediate,8.0,3,7.0,52.61904761904762,55.0
+2023-07-07,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.333333333333334,20.0,20.0
+2023-07-07,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,11.0,14.0,14.0
+2023-07-07,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,10.0,20.0,20.0
+2023-07-07,Chest / Shoulders / Triceps,Single-arm cable triceps extension,Strength,Triceps,Cable,Intermediate,8.9,3,6.666666666666667,14.0,14.0
+2023-07-07,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,4,8.25,12.0,12.0
+2023-07-08,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,8.666666666666666,2.1538461538461537,4.0
+2023-07-08,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,9.666666666666666,59.62068965517241,61.0
+2023-07-08,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,10.333333333333334,45.0,45.0
+2023-07-08,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,10.333333333333334,34.45161290322581,36.0
+2023-07-08,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,11.333333333333334,37.23529411764706,38.0
+2023-07-08,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,9.666666666666666,14.0,14.0
+2023-07-08,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,8.0,9.96875,12.0
+2023-07-09,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,8.333333333333334,87.8,90.0
+2023-07-09,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,10.0,100.0,100.0
+2023-07-09,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,2,11.5,46.95652173913044,50.0
+2023-07-09,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,1,10.0,59.0,59.0
+2023-07-09,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,13.666666666666666,75.1219512195122,80.0
+2023-07-11,Chest / Shoulders / Triceps,Smith machine bench press,Strength,Chest,Machine,Intermediate,8.3,3,7.333333333333333,65.0,65.0
+2023-07-11,Chest / Shoulders / Triceps,Smith Machine Incline Bench Press,Strength,Chest,Machine,Intermediate,8.0,3,7.333333333333333,55.0,55.0
+2023-07-11,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.0,19.166666666666668,20.0
+2023-07-11,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,11.0,11.0,11.0
+2023-07-11,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.333333333333334,21.142857142857142,22.0
+2023-07-11,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,8.333333333333334,14.0,14.0
+2023-07-11,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.666666666666666,12.0,12.0
+2023-07-12,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,9.333333333333334,2.4285714285714284,4.0
+2023-07-12,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,10.333333333333334,59.0,59.0
+2023-07-12,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,11.333333333333334,59.0,59.0
+2023-07-12,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,10.666666666666666,32.5,36.0
+2023-07-12,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,8.666666666666666,14.0,14.0
+2023-07-12,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,11.666666666666666,36.0,36.0
+2023-07-12,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.666666666666667,8.608695652173912,10.0
+2023-07-15,Chest / Shoulders / Triceps,Smith machine bench press,Strength,Chest,Machine,Intermediate,8.3,3,8.0,62.5,65.0
+2023-07-15,Chest / Shoulders / Triceps,Smith Machine Incline Bench Press,Strength,Chest,Machine,Intermediate,8.0,3,8.333333333333334,50.0,50.0
+2023-07-15,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.0,20.0,20.0
+2023-07-15,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,10.0,14.0,14.0
+2023-07-15,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,1,12.0,20.0,20.0
+2023-07-15,Chest / Shoulders / Triceps,Incline EZ-bar skullcrusher,Strength,Triceps,Barbell,Intermediate,8.9,2,12.0,22.5,25.0
+2023-07-15,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,9.333333333333334,27.0,27.0
+2023-07-15,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.666666666666666,12.0,12.0
+2023-07-16,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,3,6.666666666666667,8.25,10.0
+2023-07-16,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,11.333333333333334,60.294117647058826,61.0
+2023-07-16,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,10.0,45.0,45.0
+2023-07-16,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,13.333333333333334,40.125,45.0
+2023-07-16,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,9.666666666666666,15.10344827586207,16.0
+2023-07-16,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,11.0,38.0,38.0
+2023-07-16,Back / Shoulders / Biceps,Preacher Curl,Strength,Biceps,Barbell,Intermediate,8.8,4,10.5,25.0,25.0
+2023-07-19,Chest / Shoulders / Triceps,Smith machine bench press,Strength,Chest,Machine,Intermediate,8.3,3,7.333333333333333,65.0,65.0
+2023-07-19,Chest / Shoulders / Triceps,Smith Machine Incline Bench Press,Strength,Chest,Machine,Intermediate,8.0,3,7.666666666666667,55.0,55.0
+2023-07-19,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.333333333333334,20.0,20.0
+2023-07-19,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,11.0,14.0,14.0
+2023-07-19,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.333333333333334,25.0,25.0
+2023-07-19,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,9.333333333333334,15.0,16.0
+2023-07-19,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,11.0,12.0,12.0
+2023-07-22,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,8.25,5.0,5.0
+2023-07-22,Back / Shoulders / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,11.0,60.0,60.0
+2023-07-22,Back / Shoulders / Biceps,Bent-over dumbbell rear delt fly,Strength,Lats,Dumbbell,Intermediate,,3,9.333333333333334,8.0,8.0
+2023-07-22,Back / Shoulders / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,10.333333333333334,12.0,12.0
+2023-07-22,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,10.666666666666666,8.0,8.0
+2023-07-22,Back / Shoulders / Biceps,Barbell Curl,Strength,Biceps,Barbell,Intermediate,9.0,1,6.0,26.0,26.0
+2023-07-22,Back / Shoulders / Biceps,Dumbbell Bicep Curl,Strength,Biceps,Dumbbell,Intermediate,8.9,3,5.0,12.666666666666666,14.0
+2023-07-24,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,8.0,60.0,60.0
+2023-07-24,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,8.666666666666666,50.0,50.0
+2023-07-24,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,10.0,44.0,44.0
+2023-07-24,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,2,10.0,18.0,18.0
+2023-07-24,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,8.0,22.5,24.0
+2023-07-24,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-07-27,Legs,Romanian Deadlift With Dumbbells,Strength,Hamstrings,Dumbbell,Beginner,9.4,4,12.5,22.0,22.0
+2023-07-27,Legs,Dumbbell Bulgarian split squat,Strength,Quadriceps,Other,Intermediate,,4,7.75,14.774193548387096,18.0
+2023-07-27,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,16.0,44.0,44.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,9.666666666666666,22.0,22.0
+2023-07-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,11.333333333333334,18.0,18.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Strength,Triceps,Dumbbell,Intermediate,8.4,6,8.0,10.0,10.0
+2023-07-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.666666666666666,12.0,12.0
+2023-08-05,Back / Biceps,Dumbbell bent-over row,Strength,Middle Back,Dumbbell,Intermediate,8.3,3,15.333333333333334,22.0,22.0
+2023-08-05,Back / Biceps,Single-arm dumbbell row,Strength,Traps,Dumbbell,Intermediate,,2,9.0,15.777777777777779,18.0
+2023-08-05,Back / Biceps,Standing dumbbell shrug,Strength,Traps,Dumbbell,Intermediate,8.7,3,15.0,22.0,22.0
+2023-08-05,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,10.0,12.0,12.0
+2023-08-05,Back / Biceps,Dumbbell Bicep Curl,Strength,Biceps,Dumbbell,Intermediate,8.9,3,6.666666666666667,10.7,12.0
+2023-08-06,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,7.333333333333333,74.0,78.0
+2023-08-06,Legs,Romanian Deadlift With Dumbbells,Strength,Hamstrings,Dumbbell,Beginner,9.4,3,10.666666666666666,48.0,48.0
+2023-08-06,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,17.0,62.94117647058823,70.0
+2023-08-08,Chest / Shoulders / Triceps,Smith machine bench press,Strength,Chest,Machine,Intermediate,8.3,3,6.333333333333333,65.0,65.0
+2023-08-08,Chest / Shoulders / Triceps,Smith Machine Incline Bench Press,Strength,Chest,Machine,Intermediate,8.0,3,8.333333333333334,51.0,55.0
+2023-08-08,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,10.666666666666666,14.0,14.0
+2023-08-08,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,7.0,20.0,20.0
+2023-08-08,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.0,12.0,12.0
+2023-08-08,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,8.0,25.0,25.0
+2023-08-08,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,7.0,25.666666666666668,27.0
+2023-08-18,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,9.0,5.0,5.0
+2023-08-18,Back / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,8.0,64.0,64.0
+2023-08-18,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,8.666666666666666,12.0,12.0
+2023-08-18,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,10.0,8.0,8.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,4,11.75,22.0,22.0
+2023-08-22,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,10.0,20.0,20.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Strength,Triceps,Dumbbell,Intermediate,8.4,3,7.0,10.0,10.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-08-23,Back / Biceps,Dumbbell bent-over row,Strength,Middle Back,Dumbbell,Intermediate,8.3,4,14.5,22.0,22.0
+2023-08-23,Back / Biceps,Standing dumbbell shrug,Strength,Traps,Dumbbell,Intermediate,8.7,3,17.333333333333332,22.0,22.0
+2023-08-23,Back / Biceps,Dumbbell Bicep Curl,Strength,Biceps,Dumbbell,Intermediate,8.9,3,9.0,12.0,12.0
+2023-08-23,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,8.0,12.0,12.0
+2023-09-05,Chest / Shoulders / Triceps,Smith machine bench press,Strength,Chest,Machine,Intermediate,8.3,3,7.666666666666667,65.0,65.0
+2023-09-05,Chest / Shoulders / Triceps,Smith Machine Incline Bench Press,Strength,Chest,Machine,Intermediate,8.0,3,7.666666666666667,55.0,55.0
+2023-09-05,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,7.0,20.0,20.0
+2023-09-05,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,3,9.333333333333334,14.0,14.0
+2023-09-05,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,8.333333333333334,25.0,25.0
+2023-09-05,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,8.0,14.0,14.0
+2023-09-05,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-09-13,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,7.0,60.0,60.0
+2023-09-13,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,9.666666666666666,44.0,44.0
+2023-09-13,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.333333333333334,18.0,18.0
+2023-09-13,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,10.333333333333334,22.0,22.0
+2023-09-13,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.0,12.0,12.0
+2023-09-15,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.5,5.0,5.0
+2023-09-15,Back / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,7.75,60.0,60.0
+2023-09-15,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,8.0,12.0,12.0
+2023-09-15,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.0,8.0,8.0
+2023-09-16,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,9.0,60.0,60.0
+2023-09-16,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,11.333333333333334,46.35294117647059,48.0
+2023-09-16,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,7.666666666666667,18.0,18.0
+2023-09-16,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,7.666666666666667,24.0,24.0
+2023-09-16,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.0,12.0,12.0
+2023-09-17,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,4,7.5,82.0,90.0
+2023-09-17,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,11.333333333333334,95.58823529411765,100.0
+2023-09-17,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,3,10.333333333333334,45.0,45.0
+2023-09-17,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,8.0,59.0,59.0
+2023-09-17,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,11.666666666666666,76.85714285714286,85.0
+2023-09-20,Arms,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,10.666666666666666,50.0,50.0
+2023-09-20,Arms,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,11.0,12.0,12.0
+2023-09-20,Arms,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.666666666666666,24.0,24.0
+2023-09-20,Arms,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,10.0,10.0,10.0
+2023-09-22,Back / Shoulders / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.5,5.0,5.0
+2023-09-22,Back / Shoulders / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,8.5,60.0,60.0
+2023-09-22,Back / Shoulders / Biceps,Bent-over dumbbell rear delt fly,Strength,Lats,Dumbbell,Intermediate,,3,10.0,7.2,8.0
+2023-09-22,Back / Shoulders / Biceps,Dumbbell Bicep Curl,Strength,Biceps,Dumbbell,Intermediate,8.9,3,8.333333333333334,12.0,12.0
+2023-09-23,Chest / Shoulders,Bench press,Strength,Chest,Barbell,Intermediate,,3,8.666666666666666,60.0,60.0
+2023-09-23,Chest / Shoulders,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,7.666666666666667,50.0,50.0
+2023-09-23,Chest / Shoulders,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,9.333333333333334,18.0,18.0
+2023-09-23,Chest / Shoulders,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-09-30,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,9.0,27.40740740740741,30.0
+2023-09-30,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,6.666666666666667,26.0,26.0
+2023-09-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,1,4.0,24.0,24.0
+2023-09-30,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,9.0,14.88888888888889,16.0
+2023-09-30,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,8.5,18.0,18.0
+2023-09-30,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.0,25.0,25.0
+2023-09-30,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,9.0,27.0,27.0
+2023-09-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.333333333333334,12.0,12.0
+2023-10-01,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,11.0,63.24242424242424,66.0
+2023-10-01,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,8.333333333333334,61.0,61.0
+2023-10-01,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,8.0,41.0,41.0
+2023-10-01,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,8.666666666666666,14.0,14.0
+2023-10-01,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,8.333333333333334,38.84,41.0
+2023-10-01,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.333333333333333,10.0,10.0
+2023-10-15,Arms,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,12.666666666666666,50.0,50.0
+2023-10-15,Arms,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,10.666666666666666,24.0,24.0
+2023-10-15,Arms,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,11.666666666666666,12.0,12.0
+2023-10-15,Arms,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,9.0,10.0,10.0
+2023-10-18,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,7.666666666666667,60.0,60.0
+2023-10-18,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,7.666666666666667,50.0,50.0
+2023-10-18,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,6.666666666666667,20.0,20.0
+2023-10-18,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.333333333333334,12.0,12.0
+2023-10-29,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.5,5.0,5.0
+2023-10-29,Back / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,9.0,60.0,60.0
+2023-10-29,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,9.333333333333334,12.0,12.0
+2023-10-29,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,7.333333333333333,9.272727272727273,10.0
+2023-11-04,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,7.333333333333333,29.0,30.0
+2023-11-04,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,6.0,26.0,26.0
+2023-11-04,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,8.5,16.0,16.0
+2023-11-04,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,7.5,18.0,18.0
+2023-11-04,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,8.333333333333334,25.0,25.0
+2023-11-04,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,9.0,27.0,27.0
+2023-11-04,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,10.0,12.0,12.0
+2023-11-05,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,8.333333333333334,85.0,85.0
+2023-11-05,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,8.0,104.58333333333333,110.0
+2023-11-05,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,10.666666666666666,56.375,59.0
+2023-11-05,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,8.666666666666666,63.03846153846154,66.0
+2023-11-05,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,11.0,90.0,90.0
+2023-11-11,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,8.0,60.0,60.0
+2023-11-11,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,8.0,50.0,50.0
+2023-11-11,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,6.666666666666667,50.0,50.0
+2023-11-11,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,6.666666666666667,18.0,18.0
+2023-11-11,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,7.666666666666667,24.0,24.0
+2023-11-11,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.666666666666666,12.0,12.0
+2023-11-12,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,6.666666666666667,83.0,85.0
+2023-11-12,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,9.0,110.0,110.0
+2023-11-12,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,12.0,64.61111111111111,73.0
+2023-11-12,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,6.666666666666667,66.0,66.0
+2023-11-12,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.333333333333334,100.0,100.0
+2023-11-18,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,6.5,7.884615384615385,10.0
+2023-11-18,Back / Biceps,Bent Over Barbell Row,Strength,Middle Back,Barbell,Intermediate,8.7,4,8.75,60.0,60.0
+2023-11-18,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,9.0,12.0,12.0
+2023-11-18,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,6.333333333333333,8.526315789473685,10.0
+2023-11-19,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,6.333333333333333,90.0,90.0
+2023-11-19,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,7.0,114.28571428571429,120.0
+2023-11-19,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,9.0,73.0,73.0
+2023-11-19,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,9.0,66.0,66.0
+2023-11-19,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.666666666666666,110.0,110.0
+2023-11-25,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,7.666666666666667,30.0,30.0
+2023-11-25,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,6.333333333333333,25.36842105263158,26.0
+2023-11-25,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,9.0,18.0,18.0
+2023-11-25,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,10.0,14.0,14.0
+2023-11-25,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.333333333333334,27.142857142857142,30.0
+2023-11-25,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,7.0,17.238095238095237,18.0
+2023-11-25,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,11.333333333333334,12.0,12.0
+2023-12-01,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,15.0,77.0,86.0
+2023-12-01,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,8.666666666666666,68.15384615384616,73.0
+2023-12-01,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,10.333333333333334,36.0,36.0
+2023-12-01,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,10.333333333333334,14.0,14.0
+2023-12-01,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,10.333333333333334,38.41935483870968,41.0
+2023-12-01,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,8.0,8.583333333333334,10.0
+2023-12-02,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,8.666666666666666,60.0,60.0
+2023-12-02,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,8.0,50.0,50.0
+2023-12-02,Chest / Shoulders / Triceps,Close-grip bench press,Strength,Chest,Barbell,Intermediate,9.1,3,7.0,50.0,50.0
+2023-12-02,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,6.0,20.0,20.0
+2023-12-02,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.0,24.0,24.0
+2023-12-02,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,12.0,12.0
+2023-12-03,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,5.0,86.66666666666667,90.0
+2023-12-03,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,9.333333333333334,115.71428571428571,120.0
+2023-12-03,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.0,110.0,110.0
+2023-12-03,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,9.0,75.0,75.0
+2023-12-03,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,9.333333333333334,66.0,66.0
+2023-12-08,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,7.666666666666667,74.56521739130434,79.0
+2023-12-08,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,9.666666666666666,66.0,66.0
+2023-12-08,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,12.0,38.77777777777778,41.0
+2023-12-08,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,10.333333333333334,14.0,14.0
+2023-12-08,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,9.333333333333334,41.0,41.0
+2023-12-08,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,9.666666666666666,8.0,8.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,8.0,30.0,30.0
+2023-12-09,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,6.666666666666667,26.0,26.0
+2023-12-09,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,8.0,16.0,16.0
+2023-12-09,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,11.0,18.0,18.0
+2023-12-09,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,10.666666666666666,25.0,25.0
+2023-12-09,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,9.666666666666666,27.0,27.0
+2023-12-09,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,9.0,14.0,14.0
+2023-12-10,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,9.0,90.0,90.0
+2023-12-10,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,9.0,122.5925925925926,130.0
+2023-12-10,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,8.666666666666666,79.0,79.0
+2023-12-10,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,9.666666666666666,73.0,73.0
+2023-12-10,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.666666666666666,110.0,110.0
+2023-12-16,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,9.0,30.0,30.0
+2023-12-16,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,2,8.5,26.0,26.0
+2023-12-16,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,2,7.5,22.0,22.0
+2023-12-16,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,8.0,16.0,16.0
+2023-12-16,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,10.0,18.0,18.0
+2023-12-16,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,7.0,27.714285714285715,30.0
+2023-12-16,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,7.0,29.0,29.0
+2023-12-16,Chest / Shoulders / Triceps,Single-arm cable lateral raise,Strength,Shoulders,Cable,Intermediate,,3,7.666666666666667,11.0,11.0
+2023-12-17,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,6.75,8.703703703703704,10.0
+2023-12-17,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,4,10.75,57.2093023255814,60.0
+2023-12-17,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,6.666666666666667,13.3,14.0
+2023-12-17,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,6.5,10.0,10.0
+2023-12-22,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.25,8.793103448275861,10.0
+2023-12-22,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,4,10.0,64.0,64.0
+2023-12-22,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,6.75,14.0,14.0
+2023-12-22,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,7.25,10.0,10.0
+2023-12-23,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,6.0,32.0,32.0
+2023-12-23,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,8.0,26.0,26.0
+2023-12-23,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,8.5,16.0,16.0
+2023-12-23,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,11.0,18.727272727272727,20.0
+2023-12-23,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,8.0,30.0,30.0
+2023-12-23,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,8.333333333333334,29.0,29.0
+2023-12-23,Chest / Shoulders / Triceps,Single-arm cable lateral raise,Strength,Shoulders,Cable,Intermediate,,3,8.333333333333334,11.0,11.0
+2023-12-24,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,7.333333333333333,95.0,95.0
+2023-12-24,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,7.333333333333333,130.0,130.0
+2023-12-24,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,6.333333333333333,81.0,81.0
+2023-12-24,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,2,8.5,73.0,73.0
+2023-12-30,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,7.333333333333333,65.0,65.0
+2023-12-30,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,6.666666666666667,55.0,55.0
+2023-12-30,Chest / Shoulders / Triceps,Triceps dip,Strength,Triceps,Body Only,Intermediate,9.4,3,6.666666666666667,10.0,10.0
+2023-12-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,6.666666666666667,20.0,20.0
+2023-12-30,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.333333333333334,25.0,25.0
+2023-12-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,8.0,14.0,14.0
+2023-12-31,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,8.0,8.75,10.0
+2023-12-31,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,4,9.5,65.0,65.0
+2023-12-31,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,6.333333333333333,14.0,14.0
+2023-12-31,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,7.75,10.0,10.0
+2024-01-05,Back / Shoulders / Biceps,Seated Cable Rows,Strength,Middle Back,Cable,Intermediate,8.8,3,6.666666666666667,67.75,73.0
+2024-01-05,Back / Shoulders / Biceps,Lat pull-down,Strength,Lats,Cable,Intermediate,8.6,3,9.666666666666666,69.86206896551724,73.0
+2024-01-05,Back / Shoulders / Biceps,Straight-arm cable pull-over,Strength,Lats,Cable,Intermediate,,3,11.333333333333334,43.23529411764706,45.0
+2024-01-05,Back / Shoulders / Biceps,Standing crossed-cable rear delt fly,Strength,Shoulders,Cable,Intermediate,8.2,3,11.666666666666666,14.0,14.0
+2024-01-05,Back / Shoulders / Biceps,Cable rope hammer curl,Strength,Biceps,Cable,Intermediate,8.2,3,10.0,41.0,41.0
+2024-01-05,Back / Shoulders / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,3,10.0,10.0,10.0
+2024-01-06,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,7.333333333333333,32.0,32.0
+2024-01-06,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,2,6.5,28.0,28.0
+2024-01-06,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,2,8.0,22.0,22.0
+2024-01-06,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,7.0,18.0,18.0
+2024-01-06,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,9.0,20.0,20.0
+2024-01-06,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,9.0,30.0,30.0
+2024-01-06,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,3,8.666666666666666,29.0,29.0
+2024-01-06,Chest / Shoulders / Triceps,Single-arm cable lateral raise,Strength,Shoulders,Cable,Intermediate,,3,8.666666666666666,14.0,14.0
+2024-01-07,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,7.0,95.0,95.0
+2024-01-07,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,8.666666666666666,130.0,130.0
+2024-01-07,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,7.0,81.0,81.0
+2024-01-07,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,9.333333333333334,77.14285714285714,79.0
+2024-01-12,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,7.5,9.0,10.0
+2024-01-12,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,3,10.333333333333334,65.0,65.0
+2024-01-12,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,7.333333333333333,14.0,14.0
+2024-01-12,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,8.25,10.0,10.0
+2024-01-13,Chest / Shoulders / Triceps,Dumbbell Bench Press,Strength,Chest,Dumbbell,Intermediate,9.2,3,7.666666666666667,32.0,32.0
+2024-01-13,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,2,7.5,28.0,28.0
+2024-01-13,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,2,8.0,24.0,24.0
+2024-01-13,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,7.5,18.0,18.0
+2024-01-13,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,9.5,20.0,20.0
+2024-01-13,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,8.0,30.0,30.0
+2024-01-13,Chest / Shoulders / Triceps,Triceps Pushdown,Strength,Triceps,Cable,Intermediate,8.6,1,9.0,29.0,29.0
+2024-01-13,Chest / Shoulders / Triceps,Single-arm cable triceps extension,Strength,Triceps,Cable,Intermediate,8.9,2,5.5,14.0,14.0
+2024-01-13,Chest / Shoulders / Triceps,Single-arm cable lateral raise,Strength,Shoulders,Cable,Intermediate,,3,9.0,14.0,14.0
+2024-01-14,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,6.0,100.0,100.0
+2024-01-14,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,7.0,140.0,140.0
+2024-01-14,Legs,Lying Leg Curls,Strength,Hamstrings,Machine,Beginner,8.9,3,9.0,56.77777777777778,59.0
+2024-01-14,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,9.666666666666666,83.10344827586206,86.0
+2024-01-14,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.666666666666666,110.0,110.0
+2024-01-18,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,8.5,8.823529411764707,10.0
+2024-01-18,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,4,8.5,67.58823529411765,69.0
+2024-01-18,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,4,7.75,14.0,14.0
+2024-01-18,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,6.75,11.037037037037036,12.0
+2024-01-20,Chest / Shoulders / Triceps,Bench press,Strength,Chest,Barbell,Intermediate,,3,7.333333333333333,65.0,65.0
+2024-01-20,Chest / Shoulders / Triceps,Incline bench press,Strength,Chest,Barbell,Intermediate,,3,7.666666666666667,55.0,55.0
+2024-01-20,Chest / Shoulders / Triceps,Triceps dip,Strength,Triceps,Body Only,Intermediate,9.4,3,8.0,10.0,10.0
+2024-01-20,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Strength,Shoulders,Dumbbell,Intermediate,9.0,3,8.333333333333334,20.0,20.0
+2024-01-20,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,6.666666666666667,30.0,30.0
+2024-01-20,Chest / Shoulders / Triceps,Dumbbell lateral raise,Strength,Shoulders,Dumbbell,Intermediate,,3,7.666666666666667,14.0,14.0
+2024-01-21,Biceps / Abs,Barbell Curl,Strength,Biceps,Barbell,Intermediate,9.0,3,11.0,27.87878787878788,30.0
+2024-01-21,Biceps / Abs,Hanging leg raise,Strength,Abdominals,Body Only,Intermediate,8.9,3,12.333333333333334,0.0,0.0
+2024-01-21,Biceps / Abs,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,7.0,16.0,16.0
+2024-01-21,Biceps / Abs,Crunch,Strength,Abdominals,Bands,Intermediate,,3,7.0,0.0,0.0
+2024-01-26,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,6.5,12.5,15.0
+2024-01-26,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,4,7.5,65.93333333333334,69.0
+2024-01-26,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,8.0,14.666666666666666,16.0
+2024-01-26,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,8.0,12.0,12.0
+2024-01-27,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,7.0,30.0,30.0
+2024-01-27,Chest / Shoulders / Triceps,Leverage Chest Press,Strength,Chest,Machine,Beginner,8.5,3,8.333333333333334,35.0,35.0
+2024-01-27,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,7.0,18.0,18.0
+2024-01-27,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,8.0,20.0,20.0
+2024-01-27,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,10.0,30.0,30.0
+2024-01-27,Chest / Shoulders / Triceps,Single-arm cable triceps extension,Strength,Triceps,Cable,Intermediate,8.9,3,5.666666666666667,14.0,14.0
+2024-01-27,Chest / Shoulders / Triceps,Single-arm cable lateral raise,Strength,Shoulders,Cable,Intermediate,,3,8.666666666666666,14.0,14.0
+2024-01-28,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,7.0,101.42857142857143,105.0
+2024-01-28,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,7.666666666666667,140.0,140.0
+2024-01-28,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,10.0,56.2,59.0
+2024-01-28,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,10.333333333333334,110.0,110.0
+2024-01-28,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,8.0,86.0,86.0
+2024-02-02,Back / Biceps,Pull-up,Strength,Lats,Body Only,Beginner,8.9,4,6.5,12.5,15.0
+2024-02-02,Back / Biceps,Reverse Barbell Row,Strength,Lats,Barbell,Intermediate,,4,8.75,65.0,65.0
+2024-02-02,Back / Biceps,Hammer Curls,Strength,Biceps,Dumbbell,Intermediate,9.1,3,7.0,15.333333333333334,16.0
+2024-02-02,Back / Biceps,Incline dumbbell biceps curl,Strength,Biceps,Bands,Intermediate,,4,7.0,12.0,12.0
+2024-02-03,Chest / Shoulders / Triceps,Incline dumbbell bench press,Strength,Chest,Dumbbell,Intermediate,9.1,3,6.666666666666667,28.6,30.0
+2024-02-03,Chest / Shoulders / Triceps,Leverage Chest Press,Strength,Chest,Machine,Beginner,8.5,3,6.666666666666667,40.0,40.0
+2024-02-03,Chest / Shoulders / Triceps,Low-cable cross-over,Strength,Chest,Cable,Intermediate,9.1,2,9.5,18.0,18.0
+2024-02-03,Chest / Shoulders / Triceps,Cable cross-over,Strength,Chest,Cable,Beginner,8.4,2,7.5,23.0,23.0
+2024-02-03,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Strength,Triceps,Barbell,Intermediate,8.7,3,5.666666666666667,35.0,35.0
+2024-02-03,Chest / Shoulders / Triceps,Single-arm cable triceps extension,Strength,Triceps,Cable,Intermediate,8.9,3,6.333333333333333,14.0,14.0
+2024-02-03,Chest / Shoulders / Triceps,Single-arm cable lateral raise,Strength,Shoulders,Cable,Intermediate,,3,7.666666666666667,16.0,16.0
+2024-02-04,Legs,Barbell Squat,Strength,Quadriceps,Barbell,Intermediate,8.9,3,7.333333333333333,105.0,105.0
+2024-02-04,Legs,Leg Press,Strength,Quadriceps,Machine,Intermediate,8.8,3,7.333333333333333,145.0,145.0
+2024-02-04,Legs,Seated Leg Curl,Strength,Hamstrings,Machine,Intermediate,7.9,3,9.0,63.77777777777778,66.0
+2024-02-04,Legs,Leg Extensions,Strength,Quadriceps,Machine,Intermediate,8.5,3,8.0,89.0,89.0
+2024-02-04,Legs,Smith machine standing calf raise,Strength,Calves,Barbell,Intermediate,,3,11.0,110.0,110.0

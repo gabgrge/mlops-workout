@@ -1,0 +1,30 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-11-18,Back / Biceps,Pull-up,Back,1,8,10.0
+2023-11-18,Back / Biceps,Pull-up,Back,2,7,10.0
+2023-11-18,Back / Biceps,Pull-up,Back,3,5,5.0
+2023-11-18,Back / Biceps,Pull-up,Back,4,6,5.0
+2023-11-18,Back / Biceps,Bent Over Barbell Row,Back,1,10,60.0
+2023-11-18,Back / Biceps,Bent Over Barbell Row,Back,2,8,60.0
+2023-11-18,Back / Biceps,Bent Over Barbell Row,Back,3,8,60.0
+2023-11-18,Back / Biceps,Bent Over Barbell Row,Back,4,9,60.0
+2023-11-18,Back / Biceps,Hammer Curls,Biceps,1,12,12.0
+2023-11-18,Back / Biceps,Hammer Curls,Biceps,2,8,12.0
+2023-11-18,Back / Biceps,Hammer Curls,Biceps,3,7,12.0
+2023-11-18,Back / Biceps,Incline dumbbell biceps curl,Biceps,1,5,10.0
+2023-11-18,Back / Biceps,Incline dumbbell biceps curl,Biceps,2,8,8.0
+2023-11-18,Back / Biceps,Incline dumbbell biceps curl,Biceps,3,6,8.0
+2023-11-19,Legs,Barbell Squat,Legs,1,9,90.0
+2023-11-19,Legs,Barbell Squat,Legs,2,6,90.0
+2023-11-19,Legs,Barbell Squat,Legs,3,4,90.0
+2023-11-19,Legs,Leg Press,Legs,1,12,110.0
+2023-11-19,Legs,Leg Press,Legs,2,6,120.0
+2023-11-19,Legs,Leg Press,Legs,3,3,120.0
+2023-11-19,Legs,Seated Leg Curl,Legs,1,9,73.0
+2023-11-19,Legs,Seated Leg Curl,Legs,2,10,73.0
+2023-11-19,Legs,Seated Leg Curl,Legs,3,8,73.0
+2023-11-19,Legs,Leg Extensions,Legs,1,12,66.0
+2023-11-19,Legs,Leg Extensions,Legs,2,8,66.0
+2023-11-19,Legs,Leg Extensions,Legs,3,7,66.0
+2023-11-19,Legs,Smith machine standing calf raise,Legs,1,13,110.0
+2023-11-19,Legs,Smith machine standing calf raise,Legs,2,10,110.0
+2023-11-19,Legs,Smith machine standing calf raise,Legs,3,9,110.0

@@ -1,0 +1,34 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-12-30,Chest / Shoulders / Triceps,Bench press,Chest,1,8,65.0
+2023-12-30,Chest / Shoulders / Triceps,Bench press,Chest,2,8,65.0
+2023-12-30,Chest / Shoulders / Triceps,Bench press,Chest,3,6,65.0
+2023-12-30,Chest / Shoulders / Triceps,Incline bench press,Chest,1,7,55.0
+2023-12-30,Chest / Shoulders / Triceps,Incline bench press,Chest,2,7,55.0
+2023-12-30,Chest / Shoulders / Triceps,Incline bench press,Chest,3,6,55.0
+2023-12-30,Chest / Shoulders / Triceps,Triceps dip,Triceps,1,7,10.0
+2023-12-30,Chest / Shoulders / Triceps,Triceps dip,Triceps,2,7,10.0
+2023-12-30,Chest / Shoulders / Triceps,Triceps dip,Triceps,3,6,10.0
+2023-12-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,1,8,20.0
+2023-12-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,2,6,20.0
+2023-12-30,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,3,6,20.0
+2023-12-30,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,1,12,25.0
+2023-12-30,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,2,8,25.0
+2023-12-30,Chest / Shoulders / Triceps,Behind-the-head skullcrusher,Triceps,3,8,25.0
+2023-12-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,10,14.0
+2023-12-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,8,14.0
+2023-12-30,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,6,14.0
+2023-12-31,Back / Biceps,Pull-up,Back,1,10,10.0
+2023-12-31,Back / Biceps,Pull-up,Back,2,8,10.0
+2023-12-31,Back / Biceps,Pull-up,Back,3,6,10.0
+2023-12-31,Back / Biceps,Pull-up,Back,4,8,5.0
+2023-12-31,Back / Biceps,Reverse Barbell Row,Back,1,11,65.0
+2023-12-31,Back / Biceps,Reverse Barbell Row,Back,2,10,65.0
+2023-12-31,Back / Biceps,Reverse Barbell Row,Back,3,8,65.0
+2023-12-31,Back / Biceps,Reverse Barbell Row,Back,4,9,65.0
+2023-12-31,Back / Biceps,Hammer Curls,Biceps,1,8,14.0
+2023-12-31,Back / Biceps,Hammer Curls,Biceps,2,6,14.0
+2023-12-31,Back / Biceps,Hammer Curls,Biceps,3,5,14.0
+2023-12-31,Back / Biceps,Incline dumbbell biceps curl,Biceps,1,11,10.0
+2023-12-31,Back / Biceps,Incline dumbbell biceps curl,Biceps,2,8,10.0
+2023-12-31,Back / Biceps,Incline dumbbell biceps curl,Biceps,3,6,10.0
+2023-12-31,Back / Biceps,Incline dumbbell biceps curl,Biceps,4,6,10.0

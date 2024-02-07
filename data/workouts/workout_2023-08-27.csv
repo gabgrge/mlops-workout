@@ -1,0 +1,27 @@
+DATE,WORKOUT,EXERCISE,MUSCLE,SET,NB_REPS,WEIGHT
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,1,14,22.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,2,12,22.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,3,11,22.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell Bench Press,Chest,4,10,22.0
+2023-08-22,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,1,10,20.0
+2023-08-22,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,2,10,20.0
+2023-08-22,Chest / Shoulders / Triceps,Seated dumbbell shoulder press,Shoulders,3,10,20.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,1,7,10.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,2,8,10.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell skullcrusher,Triceps,3,6,10.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,1,10,12.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,2,9,12.0
+2023-08-22,Chest / Shoulders / Triceps,Dumbbell lateral raise,Shoulders,3,8,12.0
+2023-08-23,Back / Biceps,Dumbbell bent-over row,Back,1,16,22.0
+2023-08-23,Back / Biceps,Dumbbell bent-over row,Back,2,14,22.0
+2023-08-23,Back / Biceps,Dumbbell bent-over row,Back,3,14,22.0
+2023-08-23,Back / Biceps,Dumbbell bent-over row,Back,4,14,22.0
+2023-08-23,Back / Biceps,Standing dumbbell shrug,Back,1,20,22.0
+2023-08-23,Back / Biceps,Standing dumbbell shrug,Back,2,16,22.0
+2023-08-23,Back / Biceps,Standing dumbbell shrug,Back,3,16,22.0
+2023-08-23,Back / Biceps,Dumbbell Bicep Curl,Biceps,1,11,12.0
+2023-08-23,Back / Biceps,Dumbbell Bicep Curl,Biceps,2,8,12.0
+2023-08-23,Back / Biceps,Dumbbell Bicep Curl,Biceps,3,8,12.0
+2023-08-23,Back / Biceps,Hammer Curls,Biceps,1,9,12.0
+2023-08-23,Back / Biceps,Hammer Curls,Biceps,2,8,12.0
+2023-08-23,Back / Biceps,Hammer Curls,Biceps,3,7,12.0
