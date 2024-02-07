@@ -28,8 +28,8 @@ class TestApp(unittest.TestCase):
 
         # Set up the Selenium driver
         chrome_options = Options()
-        chrome_options.add_argument('--headless=new')
-        chrome_options.add_argument('--remote-debugging-pipe')
+        chrome_options.add_argument('--headless=new')  # Run Chrome in headless mode
+        chrome_options.add_argument('--remote-debugging-pipe')  # Enable remote debugging
         self.driver = webdriver.Chrome(options=chrome_options)
 
         # Clear the logs before each test
