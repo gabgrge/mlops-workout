@@ -72,8 +72,7 @@ jobs:
       - name: Merge staging branch into main
         run: |
           git fetch origin
-          git checkout main
-          git merge --allow-unrelated-histories staging
-          git push origin main
+          git checkout staging
+          git push origin staging:main
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
