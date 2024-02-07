@@ -73,5 +73,5 @@ jobs:
         run: |
           git fetch origin
           git checkout main
-          git merge --allow-unrelated-histories staging
+          git merge -X theirs staging
           git push origin main
