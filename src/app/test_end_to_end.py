@@ -6,6 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 
 from .app import app
 
@@ -26,7 +27,10 @@ class TestApp(unittest.TestCase):
         time.sleep(2)
 
         # Set up the Selenium driver
-        self.driver = webdriver.Chrome()
+        chrome_options = Options()
+        chrome_options.add_argument('--headless=new')
+        chrome_options.add_argument('--remote-debugging-pipe')
+        self.driver = webdriver.Chrome(options=chrome_options)
 
         # Clear the logs before each test
         open(data_loading_log, 'w').close()
