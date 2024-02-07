@@ -1,7 +1,8 @@
 import unittest
 import os
 import pandas as pd
-from ..data_loading import load_workout_data, load_filtered_exercise_data
+
+from data_loading import load_workout_data, load_filtered_exercise_data
 
 
 class TestDataLoading(unittest.TestCase):
@@ -18,8 +19,6 @@ class TestDataLoading(unittest.TestCase):
         # Delete test data files
         os.remove('workout_data.csv')
         os.remove('workout_exercises.csv')
-        # Clear the log file
-        open('logs/data_loading.log', 'w').close()
 
     def test_load_workout_data(self):
         # Define a known input file path

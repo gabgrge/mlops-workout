@@ -1,12 +1,16 @@
 import logging
+import os
 
 
 def configure_logger(name: str, level: int = logging.INFO) -> logging.Logger:
     logger = logging.getLogger(name)
     logger.setLevel(level)
 
+    # Get absolute path to the project root
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
     # Create file handler which logs even debug messages
-    file_handler = logging.FileHandler(f"./logs/{name}.log")
+    file_handler = logging.FileHandler(os.path.join(project_root, f"logs/{name}.log"))
     file_handler.setLevel(level)
 
     # Create console handler
