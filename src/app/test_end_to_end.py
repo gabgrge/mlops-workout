@@ -15,7 +15,7 @@ data_loading_log = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(
 
 
 def start_app():
-    app.run()
+    app.run(port=5001)
 
 
 class TestApp(unittest.TestCase):
