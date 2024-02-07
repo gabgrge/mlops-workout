@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-from features.data_loading import load_workout_data, load_filtered_exercise_data
+from src.app.data_loading import load_workout_data, load_filtered_exercise_data
 
 app = Flask(__name__)
 
@@ -26,7 +26,3 @@ def my_exercises():
 def analytics():
     my_exercises = load_filtered_exercise_data(file_path='./data/current/workout_exercises.csv')
     return render_template('my-exercises.html', my_exercises=my_exercises)
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
