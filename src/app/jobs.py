@@ -1,8 +1,8 @@
 import os
 
-from src.app.logger_config import configure_logger
-from src.app.data_collection import (collect_workout_data, fetch_exercise_data, filter_exercise_data,
-                                     enrich_workout_data, aggregate_workout_data)
+from .logger_config import configure_logger
+from .data_collection import (collect_workout_data, fetch_exercise_data, filter_exercise_data,
+                              enrich_workout_data, aggregate_workout_data)
 
 # Configure logging for the scheduler
 scheduler_logger = configure_logger(name='scheduler')

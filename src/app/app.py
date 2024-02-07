@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 import os
 
-from src.app.data_loading import load_workout_data, load_filtered_exercise_data
+from .data_loading import load_workout_data, load_filtered_exercise_data
 
 
 # Path to the data directory

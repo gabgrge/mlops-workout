@@ -3,7 +3,7 @@ import numpy as np
 import os
 import re
 
-from src.app.logger_config import configure_logger
+from .logger_config import configure_logger
 
 # Configure logging for the data collection
 data_collection_logger = configure_logger(name='data_collection')

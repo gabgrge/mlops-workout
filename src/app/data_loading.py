@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from src.app.logger_config import configure_logger
+from .logger_config import configure_logger
 
 # Configure logging for the data loading
 data_loading_logger = configure_logger(name='data_loading')

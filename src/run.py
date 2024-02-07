@@ -2,8 +2,8 @@ import multiprocessing
 import schedule
 import time
 
-from src.app.app import *
-from src.app.jobs import *
+from app.app import *
+from app.jobs import *
 
 
 def start_flask_app():
