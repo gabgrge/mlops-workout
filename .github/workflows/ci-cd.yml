@@ -53,8 +53,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/mlops-workout:latest
             ${{ secrets.DOCKERHUB_USERNAME }}/mlops-workout:${{ steps.sha.outputs.sha }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/mlops-workout:latest
 
   merge-to-main:
     needs: build-and-push
@@ -73,5 +73,5 @@ jobs:
         run: |
           git fetch origin
           git checkout main
-          git merge -X theirs staging
+          git merge --allow-unrelated-histories staging
           git push origin main
