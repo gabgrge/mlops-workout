@@ -8,6 +8,11 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
+    services:
+      selenium:
+        image: selenium/standalone-chrome
+        options: --shm-size=2g
+
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.10

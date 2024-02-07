@@ -6,7 +6,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
 
 from .app import app
 
@@ -15,7 +14,7 @@ data_loading_log = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(
 
 
 def start_app():
-    app.run(port=5001)
+    app.run()
 
 
 class TestApp(unittest.TestCase):
