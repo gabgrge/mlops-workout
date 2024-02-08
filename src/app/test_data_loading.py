@@ -4,6 +4,9 @@ import pandas as pd
 
 from .data_loading import load_workout_data, load_filtered_exercise_data
 
+# Data Loading log file path
+data_loading_log = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'logs/data_loading.log')
+
 
 class TestDataLoading(unittest.TestCase):
 
@@ -15,10 +18,18 @@ class TestDataLoading(unittest.TestCase):
         pd.DataFrame(workout_data).to_csv('workout_data.csv', index=False)
         pd.DataFrame(exercise_data).to_csv('workout_exercises.csv', index=False)
 
+        # Save the logs to memory
+        with open(data_loading_log, 'r') as f:
+            self.data_loading_log_content = f.read()
+
     def tearDown(self):
         # Delete test data files
         os.remove('workout_data.csv')
         os.remove('workout_exercises.csv')
+
+        # Restore the logs
+        with open(data_loading_log, 'w') as f:
+            f.write(self.data_loading_log_content)
 
     def test_load_workout_data(self):
         # Define a known input file path
