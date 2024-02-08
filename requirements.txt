@@ -1,5 +1,10 @@
-Flask
-pandas
-numpy
-schedule
-plotly
+Flask==3.0.2
+matplotlib==3.8.2
+numpy==1.26.3
+pandas==2.2.0
+plotly==5.18.0
+requests==2.31.0
+schedule==1.2.1
+scikit-learn==1.4.0
+selenium==4.17.2
+tensorflow==2.15.0
