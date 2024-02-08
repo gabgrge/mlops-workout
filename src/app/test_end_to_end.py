@@ -32,9 +32,11 @@ class TestApp(unittest.TestCase):
         chrome_options.add_argument('--remote-debugging-pipe')  # Enable remote debugging
         self.driver = webdriver.Chrome(options=chrome_options)
 
-        # Save the logs to memory and clear them before each test
+        # Save the logs to memory
         with open(data_loading_log, 'r') as f:
             self.data_loading_log_content = f.read()
+
+        # Clear the logs used in the tests
         open(data_loading_log, 'w').close()
 
     def test_home_page(self):
