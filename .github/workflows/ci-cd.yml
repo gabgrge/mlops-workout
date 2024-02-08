@@ -21,15 +21,3 @@ jobs:
           github_token: ${{ secrets.TOKEN }}
           pr_title: "Automated PR: Merging staging into main"
           pr_body: "This is an automated pull request to merge changes from the staging branch into the main branch."
-          pr_label: "automerge"
-
-  automerge:
-    needs: merge-to-main
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: automerge
-        uses: pascalgn/automerge-action@v0.14.2
-        env:
-          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
-          MERGE_LABELS: "automerge"
