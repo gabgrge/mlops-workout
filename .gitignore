@@ -15,3 +15,6 @@ dist/
 # Environments
 .env
 .venv
+
+# Models versions
+/models/versions/
