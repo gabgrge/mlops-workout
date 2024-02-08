@@ -32,7 +32,9 @@ class TestApp(unittest.TestCase):
         chrome_options.add_argument('--remote-debugging-pipe')  # Enable remote debugging
         self.driver = webdriver.Chrome(options=chrome_options)
 
-        # Clear the logs before each test
+        # Save the logs to memory and clear them before each test
+        with open(data_loading_log, 'r') as f:
+            self.data_loading_log_content = f.read()
         open(data_loading_log, 'w').close()
 
     def test_home_page(self):
@@ -69,10 +71,18 @@ class TestApp(unittest.TestCase):
     def test_analytics_page(self):
         self.driver.get('http://127.0.0.1:5000/analytics')
         # Add a check for an element that should be present on the analytics page
+        WebDriverWait(self.driver, 2).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, '#exercise-plot'))
+        )
+        self.assertEqual(self.driver.current_url, 'http://127.0.0.1:5000/analytics')
 
     def tearDown(self):
         self.driver.quit()
         self.app_process.terminate()
+
+        # Restore the logs
+        with open(data_loading_log, 'w') as f:
+            f.write(self.data_loading_log_content)
 
 
 if __name__ == '__main__':

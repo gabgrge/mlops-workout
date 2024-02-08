@@ -7,7 +7,7 @@ from app.jobs import *
 
 
 def start_flask_app():
-    app.run(port=5001)
+    app.run(port=5000)
 
 
 def start_scheduler():

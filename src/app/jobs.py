@@ -58,7 +58,7 @@ def data_ingestion_job():
     return
 
 
-def model_training_job(max_models=1):
+def model_training_job(max_models=None):
     scheduler_logger.info("Running model training job...")
 
     models_trained = train_models(max_models=max_models,
