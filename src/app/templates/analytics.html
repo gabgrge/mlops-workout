@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics | Workout App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body id="analytics-body">
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/workouts">Workouts</a>
+            <a href="/my-exercises">My Exercises</a>
+            <a href="/analytics">Analytics</a>
+        </nav>
+    </header>
+    <main id="analytics-main">
+        <h1>Analytics</h1>
+        <!-- Add a select input for the exercises -->
+        <label for="exercise-select">Exercise</label>
+        <select id="exercise-select">
+            {% for exercise in plot_paths['exercises'] %}
+                <option value="{{ exercise }}">{{ exercise }}</option>
+            {% endfor %}
+        </select>
+        <!-- Add an iframe for the selected exercise plot -->
+        <iframe class="iframe-style" id="exercise-plot" onload="adjustIframeHeight(this)"></iframe>
+        <iframe class="iframe-style" src="{{ plot_paths['distribution_workout_types'] }}" onload="adjustIframeHeight(this)"></iframe>
+        <iframe class="iframe-style" src="{{ plot_paths['distribution_muscle_groups'] }}" onload="adjustIframeHeight(this)"></iframe>
+        <iframe class="iframe-style" src="{{ plot_paths['weight_reps_over_time'] }}" onload="adjustIframeHeight(this)"></iframe>
+    </main>
+    <script>
+        // Update the iframe src when the selected exercise changes
+        $('#exercise-select').change(function() {
+            var exercise = $(this).val();
+            $('#exercise-plot').attr('src', "/static/plots/predicted_volume/" + exercise + ".html");
+        }).change();  // Trigger the change event to set the initial iframe src
+
+        // Function to adjust the height of the iframe
+        function adjustIframeHeight(iframe) {
+            iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+        }
+    </script>
+</body>
+</html>

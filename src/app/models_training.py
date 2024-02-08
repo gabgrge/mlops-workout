@@ -8,6 +8,7 @@ from tensorflow.keras.layers import LSTM, Dense, Bidirectional, Dropout, Flatten
 from sklearn.preprocessing import MinMaxScaler
 from typing import List, Tuple, Optional
 import matplotlib.pyplot as plt
+import warnings
 
 from .logger_config import configure_logger
 
@@ -20,6 +21,9 @@ def load_and_preprocess_data(min_exo_occurrence: int, data_path: str) -> Tuple[L
     """
     try:
         models_training_logger.info("Loading and preprocessing data...")
+
+        # Disable warnings
+        warnings.filterwarnings('ignore')
 
         # Load data
         df = pd.read_csv(os.path.join(data_path, "current/workout_data.csv"))
@@ -37,7 +41,7 @@ def load_and_preprocess_data(min_exo_occurrence: int, data_path: str) -> Tuple[L
         perf = df.groupby(["DATE", "EXERCISE"]).mean("PERF").reset_index()
 
         # Save the performance data to a csv file
-        perf.to_csv(os.path.join(data_path, 'workout_perf.csv'), index=False, header=True)
+        perf.to_csv(os.path.join(data_path, 'current/workout_perf.csv'), index=False, header=True)
 
         # Create a list with the exercises that have more than 10 values
         p = perf.groupby("EXERCISE").count().sort_values("DATE", ascending=False).reset_index()
@@ -107,7 +111,7 @@ def train_model(exo: str, perf: pd.DataFrame, models_dir: str) -> Optional[tf.ke
 
         # Save the best model based on the validation loss
         best_model = tf.keras.callbacks.ModelCheckpoint(
-            filepath=f'{models_dir}/current/{exo}.keras',
+            filepath=f'{models_dir}/current/{exo}.h5',
             monitor='val_loss',  # Monitor other things like val_accuracy or accuracy
             save_best_only=True,  # Make sure to save only the best model
             verbose=0

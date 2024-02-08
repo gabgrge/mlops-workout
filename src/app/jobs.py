@@ -4,6 +4,8 @@ from .logger_config import configure_logger
 from .data_collection import (collect_workout_data, fetch_exercise_data, filter_exercise_data,
                               enrich_workout_data, aggregate_workout_data)
 from .models_training import train_models, archive_models
+from .data_analytics import (plot_predicted_volume, plot_distribution_workout_types,
+                             plot_distribution_muscle_groups, plot_weight_reps_over_time)
 
 # Configure logging for the scheduler
 scheduler_logger = configure_logger(name='scheduler')
@@ -13,6 +15,9 @@ data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.
 
 # Path to the models directory
 models_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'models')
+
+# Path to the static directory
+static_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static')
 
 
 def data_ingestion_job():
@@ -53,7 +58,7 @@ def data_ingestion_job():
     return
 
 
-def model_training_job(max_models=None):
+def model_training_job(max_models=1):
     scheduler_logger.info("Running model training job...")
 
     models_trained = train_models(max_models=max_models,
@@ -73,7 +78,41 @@ def model_training_job(max_models=None):
     return
 
 
+def data_analytics_job():
+    scheduler_logger.info("Running data analytics job...")
+
+    predicted_volume_plotted = plot_predicted_volume(models_path=models_dir,
+                                                     data_path=data_dir,
+                                                     static_path=static_dir,
+                                                     n_weeks=26)
+    if not predicted_volume_plotted:
+        scheduler_logger.error("Predicted volumes were not plotted.")
+        return
+
+    distribution_workout_types_plotted = plot_distribution_workout_types(data_path=data_dir,
+                                                                         static_path=static_dir)
+    if not distribution_workout_types_plotted:
+        scheduler_logger.error("Distribution of workout types was not plotted.")
+        return
+
+    distribution_muscle_groups_plotted = plot_distribution_muscle_groups(data_path=data_dir,
+                                                                         static_path=static_dir)
+    if not distribution_muscle_groups_plotted:
+        scheduler_logger.error("Distribution of muscle groups was not plotted.")
+        return
+
+    weight_reps_over_time_plotted = plot_weight_reps_over_time(data_path=data_dir,
+                                                               static_path=static_dir)
+    if not weight_reps_over_time_plotted:
+        scheduler_logger.error("Weight and reps over time were not plotted.")
+        return
+
+    scheduler_logger.info("Data analytics job complete.")
+    return
+
+
 def data_pipeline_stage():
     data_ingestion_job()
     model_training_job()
+    data_analytics_job()
     return
