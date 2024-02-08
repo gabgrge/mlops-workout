@@ -4,6 +4,9 @@ import os
 
 from .data_collection import collect_workout_data
 
+# Data Collection log file path
+data_collection_log = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'logs/data_collection.log')
+
 
 class TestDataCollection(unittest.TestCase):
 
@@ -18,6 +21,10 @@ class TestDataCollection(unittest.TestCase):
         # Save the test data to the test directory
         pd.DataFrame(self.workout_data).to_csv('test/workout_2024-01-01.csv', index=False)
 
+        # Save the logs to memory
+        with open(data_collection_log, 'r') as f:
+            self.data_collection_log_content = f.read()
+
     def tearDown(self):
         # Delete test data files
         os.remove('test/workout_2024-01-01.csv')
@@ -25,6 +32,10 @@ class TestDataCollection(unittest.TestCase):
 
         # Delete test data directory
         os.rmdir('test')
+
+        # Restore the logs
+        with open(data_collection_log, 'w') as f:
+            f.write(self.data_collection_log_content)
 
     def test_collect_workout_data(self):
         # Call the function with the known input
