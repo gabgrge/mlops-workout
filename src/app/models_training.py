@@ -22,7 +22,7 @@ def load_and_preprocess_data(min_exo_occurrence: int, data_path: str) -> Tuple[L
         models_training_logger.info("Loading and preprocessing data...")
 
         # Load data
-        df = pd.read_csv(data_path)
+        df = pd.read_csv(os.path.join(data_path, "current/workout_data.csv"))
 
         # Metric to predict
         df['PERF'] = df['NB_REPS'] * df['WEIGHT']
@@ -35,6 +35,9 @@ def load_and_preprocess_data(min_exo_occurrence: int, data_path: str) -> Tuple[L
 
         # Average performance per exercise per day
         perf = df.groupby(["DATE", "EXERCISE"]).mean("PERF").reset_index()
+
+        # Save the performance data to a csv file
+        perf.to_csv(os.path.join(data_path, 'workout_perf.csv'), index=False, header=True)
 
         # Create a list with the exercises that have more than 10 values
         p = perf.groupby("EXERCISE").count().sort_values("DATE", ascending=False).reset_index()

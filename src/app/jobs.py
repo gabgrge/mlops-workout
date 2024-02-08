@@ -58,7 +58,7 @@ def model_training_job(max_models=None):
 
     models_trained = train_models(max_models=max_models,
                                   min_exo_occurrence=10,
-                                  data_path=os.path.join(data_dir, 'current/workout_data.csv'),
+                                  data_path=data_dir,
                                   models_dir=models_dir)
     if not models_trained:
         scheduler_logger.error("Models were not trained.")
