@@ -74,4 +74,4 @@ jobs:
           git fetch origin
           git checkout staging
           git pull origin staging
-          git push https://${{ secrets.TOKEN }}@github.com/gabgrge/mlops-workout.git staging:main
+          git push -f https://${{ secrets.TOKEN }}@github.com/gabgrge/mlops-workout.git staging:main
