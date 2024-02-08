@@ -75,4 +75,4 @@ jobs:
           git checkout staging
           git push https://${{ secrets.TOKEN }}@github.com/gabgrge/mlops-workout.git staging:main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
