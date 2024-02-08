@@ -73,6 +73,5 @@ jobs:
         run: |
           git fetch origin
           git checkout staging
-          git push origin staging:main
-        env:
-          GIT_AUTH_TOKEN: ${{ secrets.TOKEN }}
+          git pull origin staging
+          git push https://${{ secrets.TOKEN }}@github.com/gabgrge/mlops-workout.git staging:main
