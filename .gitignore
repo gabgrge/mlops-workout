@@ -16,5 +16,5 @@ dist/
 .env
 .venv
 
-# Models versions
+# Models versions (for size reasons)
 /models/versions/
